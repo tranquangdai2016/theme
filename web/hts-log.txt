@@ -1,0 +1,1099 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 12 May 2022 14:11:10 at http://baogam.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qYC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" -Y http://baogam.com/ -O1 "D:\Desktop\web\web" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:11:11	Warning: 	Note: due to baogam.com remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+14:11:55	Warning: 	Link s.w.org/ not scanned (follow robots meta tag)
+14:12:42	Warning: 	Note: due to order.baogam.com remote robots.txt rules, links beginning with these path will be forbidden: /backend/, /assets/, /api/ (see in the options to disable this)
+14:14:17	Warning: 	Moved Permanently for baogam.com/cong-cu-ho-tro-dat-hang/
+14:14:17	Warning: 	File has moved from baogam.com/cong-cu-ho-tro-dat-hang/ to http://baogam.com/huong-dan-cai-dat-cong-cu-dat-hang/
+14:14:19	Error: 	"Not Found" (404) at link baogam.com/; (from baogam.com/)
+14:14:56	Error: 	"Not Found" (404) at link baogam.com/wp-content/themes/baogam/assets/images/slider-arrow-small.png (from baogam.com/wp-content/themes/baogam/assets/css/main.css?v=1652339473&ver=4.8.2)
+14:14:56	Error: 	"Not Found" (404) at link baogam.com/wp-content/themes/baogam/assets/fonts/slick../slick.eot (from baogam.com/wp-content/themes/baogam/assets/css/main.css?v=1652339473&ver=4.8.2)
+14:14:56	Error: 	"Not Found" (404) at link baogam.com/wp-content/themes/baogam/assets/fonts/slick../slick.eot? (from baogam.com/wp-content/themes/baogam/assets/css/main.css?v=1652339473&ver=4.8.2)
+14:14:56	Error: 	"Not Found" (404) at link baogam.com/wp-content/themes/baogam/assets/fonts/slick../slick.woff (from baogam.com/wp-content/themes/baogam/assets/css/main.css?v=1652339473&ver=4.8.2)
+14:14:56	Error: 	"Not Found" (404) at link baogam.com/wp-content/themes/baogam/assets/fonts/slick../slick.ttf (from baogam.com/wp-content/themes/baogam/assets/css/main.css?v=1652339473&ver=4.8.2)
+14:14:56	Error: 	"Not Found" (404) at link baogam.com/wp-content/themes/baogam/assets/fonts/slick../slick.svg (from baogam.com/wp-content/themes/baogam/assets/css/main.css?v=1652339473&ver=4.8.2)
+14:15:35	Warning: 	Moved Permanently for baogam.com/?p=6
+14:15:35	Warning: 	File has moved from baogam.com/?p=6 to http://baogam.com/gioi-thieu/
+14:17:08	Error: 	"Not Found" (404) at link baogam.com/gioi-thieu/; (from baogam.com/gioi-thieu/)
+14:17:25	Error: 	"Not Found" (404) at link baogam.com/category/quy-dinh/; (from baogam.com/category/quy-dinh/)
+14:18:20	Error: 	"Not Found" (404) at link baogam.com/category/chinh-sach/; (from baogam.com/category/chinh-sach/)
+14:18:20	Warning: 	Moved Permanently for baogam.com/?p=3486
+14:18:20	Warning: 	File has moved from baogam.com/?p=3486 to http://baogam.com/bieu-phi/
+14:18:20	Error: 	"Not Found" (404) at link baogam.com/bieu-phi/; (from baogam.com/bieu-phi/)
+14:21:22	Error: 	"Not Found" (404) at link baogam.com/category/huong-dan/; (from baogam.com/category/huong-dan/)
+14:25:16	Error: 	"Not Found" (404) at link baogam.com/category/thong-bao-bao-gam/; (from baogam.com/category/thong-bao-bao-gam/)
+14:25:19	Warning: 	Moved Permanently for baogam.com/?p=14
+14:25:19	Warning: 	File has moved from baogam.com/?p=14 to http://baogam.com/lien-he/
+14:25:22	Error: 	"Not Found" (404) at link baogam.com/lien-he/; (from baogam.com/lien-he/)
+14:26:37	Warning: 	Retry after error 500 (Internal Server Error) at link order.baogam.com/i/assets/images/bg-input.png (from order.baogam.com/i/assets/css/main.css?v=220405)
+14:26:37	Warning: 	Retry after error 500 (Internal Server Error) at link order.baogam.com/i/assets/images/bg-input-focus.png (from order.baogam.com/i/assets/css/main.css?v=220405)
+14:26:37	Warning: 	Retry after error 500 (Internal Server Error) at link order.baogam.com/i/assets/fonts/glyphicons-halflings-regular.eot (from order.baogam.com/i/assets/css/main.css?v=220405)
+14:26:37	Warning: 	Retry after error 500 (Internal Server Error) at link order.baogam.com/i/assets/fonts/glyphicons-halflings-regular.eot? (from order.baogam.com/i/assets/css/main.css?v=220405)
+14:26:37	Warning: 	Retry after error 500 (Internal Server Error) at link order.baogam.com/i/assets/fonts/glyphicons-halflings-regular.woff2 (from order.baogam.com/i/assets/css/main.css?v=220405)
+14:26:37	Warning: 	Retry after error 500 (Internal Server Error) at link order.baogam.com/i/assets/fonts/glyphicons-halflings-regular.woff (from order.baogam.com/i/assets/css/main.css?v=220405)
+14:26:37	Warning: 	Retry after error 500 (Internal Server Error) at link order.baogam.com/i/assets/fonts/glyphicons-halflings-regular.ttf (from order.baogam.com/i/assets/css/main.css?v=220405)
+14:26:37	Warning: 	Retry after error 500 (Internal Server Error) at link order.baogam.com/i/assets/fonts/glyphicons-halflings-regular.svg (from order.baogam.com/i/assets/css/main.css?v=220405)
+14:26:37	Warning: 	File not parsed, looks like binary: order.baogam.com/i/assets/fonts/fontawesome/fontawesome-webfont.woff2?v=4.3.0
+14:26:37	Warning: 	Retry after error 500 (Internal Server Error) at link order.baogam.com/i/assets/font/weathericons-regular-webfont.eot (from order.baogam.com/i/assets/css/main.css?v=220405)
+14:26:37	Warning: 	Retry after error 500 (Internal Server Error) at link order.baogam.com/i/assets/font/weathericons-regular-webfont.eot? (from order.baogam.com/i/assets/css/main.css?v=220405)
+14:26:37	Warning: 	Retry after error 500 (Internal Server Error) at link order.baogam.com/i/assets/font/weathericons-regular-webfont.woff (from order.baogam.com/i/assets/css/main.css?v=220405)
+14:26:37	Warning: 	Retry after error 500 (Internal Server Error) at link order.baogam.com/i/assets/font/weathericons-regular-webfont.ttf (from order.baogam.com/i/assets/css/main.css?v=220405)
+14:26:37	Warning: 	Retry after error 500 (Internal Server Error) at link order.baogam.com/i/assets/font/weathericons-regular-webfont.svg (from order.baogam.com/i/assets/css/main.css?v=220405)
+14:26:37	Warning: 	Retry after error 500 (Internal Server Error) at link order.baogam.com/i/assets/css/images/metroIcons_light.jpg (from order.baogam.com/i/assets/css/main.css?v=220405)
+14:26:37	Warning: 	Retry after error 500 (Internal Server Error) at link order.baogam.com/i/assets/css/images/metroIcons.jpg (from order.baogam.com/i/assets/css/main.css?v=220405)
+14:26:37	Warning: 	Retry after error 500 (Internal Server Error) at link order.baogam.com/i/assets/images/profile-cover.png (from order.baogam.com/i/assets/css/main.css?v=220405)
+14:26:37	Warning: 	Retry after error 500 (Internal Server Error) at link order.baogam.com/i/assets/images/coming-soon.jpg (from order.baogam.com/i/assets/css/main.css?v=220405)
+14:26:37	Warning: 	File not parsed, looks like binary: order.baogam.com/i/assets/fonts/lobster/c28rH3kclCLEuIsGhOg7evY6323mHUZFJMgTvxaG2iE.woff2
+14:26:37	Warning: 	File not parsed, looks like binary: order.baogam.com/i/assets/fonts/lobster/RdfS2KomDWXvet4_dZQehvY6323mHUZFJMgTvxaG2iE.woff2
+14:26:37	Warning: 	File not parsed, looks like binary: order.baogam.com/i/assets/fonts/lobster/9NqNYV_LP7zlAF8jHr7f1vY6323mHUZFJMgTvxaG2iE.woff2
+14:26:37	Warning: 	File not parsed, looks like binary: order.baogam.com/i/assets/fonts/lobster/cycBf3mfbGkh66G5NhszPQ.woff2
+14:26:37	Warning: 	Moved Permanently for baogam.com/?p=2794
+14:26:37	Warning: 	File has moved from baogam.com/?p=2794 to http://baogam.com/cac-nguyen-tac-khi-hop-tac-cung-baogam/
+14:26:37	Error: 	"Method Not Allowed" (405) at link baogam.com/xmlrpc.php (from baogam.com/cac-nguyen-tac-khi-hop-tac-cung-baogam/)
+14:26:37	Error: 	"Not Found" (404) at link baogam.com/cac-nguyen-tac-khi-hop-tac-cung-baogam/; (from baogam.com/cac-nguyen-tac-khi-hop-tac-cung-baogam/)
+14:26:37	Error: 	"Not Found" (404) at link baogam.com/category/bieu-phi/; (from baogam.com/category/bieu-phi/)
+14:29:01	Error: 	"Not Found" (404) at link baogam.com/category/danh-cho-khach-hang-moi/; (from baogam.com/category/danh-cho-khach-hang-moi/)
+14:30:27	Error: 	"Not Found" (404) at link baogam.com/category/dat-hang-va-quan-ly-don/; (from baogam.com/category/dat-hang-va-quan-ly-don/)
+14:30:32	Error: 	"Not Found" (404) at link baogam.com/category/giai-quyet-khieu-nao/; (from baogam.com/category/giai-quyet-khieu-nao/)
+14:30:32	Error: 	"Not Found" (404) at link baogam.com/category/giao-hang/; (from baogam.com/category/giao-hang/)
+14:30:32	Error: 	"Not Found" (404) at link baogam.com/category/gioi-thieu/; (from baogam.com/category/gioi-thieu/)
+14:30:32	Error: 	"Not Found" (404) at link baogam.com/category/khach-hang-than-thiet/; (from baogam.com/category/khach-hang-than-thiet/)
+14:30:43	Error: 	"Not Found" (404) at link baogam.com/category/khieu-nai/; (from baogam.com/category/khieu-nai/)
+14:30:43	Error: 	"Not Found" (404) at link baogam.com/category/kiem-hang/; (from baogam.com/category/kiem-hang/)
+14:30:43	Error: 	"Not Found" (404) at link baogam.com/category/mua-hang/; (from baogam.com/category/mua-hang/)
+14:30:49	Error: 	"Not Found" (404) at link baogam.com/category/quan-ly-tai-khoan/; (from baogam.com/category/quan-ly-tai-khoan/)
+14:31:03	Error: 	"Not Found" (404) at link baogam.com/category/uncategorized/; (from baogam.com/category/uncategorized/)
+14:31:11	Error: 	"Not Found" (404) at link baogam.com/category/van-chuyen/; (from baogam.com/category/van-chuyen/)
+14:31:14	Error: 	"Not Found" (404) at link baogam.com/category/van-de-thuong-gap-2/; (from baogam.com/category/van-de-thuong-gap-2/)
+14:31:14	Warning: 	Moved Permanently for baogam.com/?p=5713
+14:31:14	Warning: 	File has moved from baogam.com/?p=5713 to http://baogam.com/baogam-thong-bao-li%cc%a3ch-nghi%cc%89-du-li%cc%a3ch-ket-hop-dao-tao-cho-can-bo%cc%a3-nhan-vien-nam-2022/
+14:31:14	Error: 	"Not Found" (404) at link baogam.com/baogam-thong-bao-lịch-nghỉ-du-lịch-ket-hop-dao-tao-cho-can-bọ-nhan-vien-nam-2022/; (from baogam.com/baogam-thong-bao-lịch-nghỉ-du-lịch-ket-hop-dao-tao-cho-can-bọ-nhan-vien-nam-2022/)
+14:31:14	Warning: 	Moved Permanently for baogam.com/?p=5711
+14:31:14	Warning: 	File has moved from baogam.com/?p=5711 to http://baogam.com/baogam-cap-nhat-thong-tin-van-chuyen-trung-quoc-viet-nam-2/
+14:31:14	Error: 	"Not Found" (404) at link baogam.com/baogam-cap-nhat-thong-tin-van-chuyen-trung-quoc-viet-nam-2/; (from baogam.com/baogam-cap-nhat-thong-tin-van-chuyen-trung-quoc-viet-nam-2/)
+14:31:14	Warning: 	Moved Permanently for baogam.com/?p=5709
+14:31:14	Warning: 	File has moved from baogam.com/?p=5709 to http://baogam.com/baogam-thong-bao-dieu-chinh-giam-ty-le-dat-coc-don-hang/
+14:31:14	Error: 	"Not Found" (404) at link baogam.com/baogam-thong-bao-dieu-chinh-giam-ty-le-dat-coc-don-hang/; (from baogam.com/baogam-thong-bao-dieu-chinh-giam-ty-le-dat-coc-don-hang/)
+14:31:14	Warning: 	Moved Permanently for baogam.com/?p=5704
+14:31:14	Warning: 	File has moved from baogam.com/?p=5704 to http://baogam.com/thong-bao-dieu-chinh-giam-phi-van-chuyen-quoc-te-ve-viet-nam-4/
+14:31:14	Error: 	"Not Found" (404) at link baogam.com/thong-bao-dieu-chinh-giam-phi-van-chuyen-quoc-te-ve-viet-nam-4/; (from baogam.com/thong-bao-dieu-chinh-giam-phi-van-chuyen-quoc-te-ve-viet-nam-4/)
+14:31:14	Warning: 	Moved Permanently for baogam.com/?p=5702
+14:31:14	Warning: 	File has moved from baogam.com/?p=5702 to http://baogam.com/baogam-thong-bao-dieu-chinh-giam-ty-gia-ngay-04052022/
+14:31:14	Error: 	"Not Found" (404) at link baogam.com/baogam-thong-bao-dieu-chinh-giam-ty-gia-ngay-04052022/; (from baogam.com/baogam-thong-bao-dieu-chinh-giam-ty-gia-ngay-04052022/)
+14:31:23	Warning: 	Moved Permanently for baogam.com/?p=3338
+14:31:23	Warning: 	File has moved from baogam.com/?p=3338 to http://baogam.com/thong-bao-danh-muc-cac-san-pham-khong-mua-khong-van-chuyen/
+14:31:23	Warning: 	Moved Permanently for baogam.com/quy-dinh-ve-danh-muc-hang-hoa-nhap-khau-va-cac-luu-y-van-chuyen/
+14:31:23	Warning: 	File has moved from baogam.com/quy-dinh-ve-danh-muc-hang-hoa-nhap-khau-va-cac-luu-y-van-chuyen/ to http://baogam.com/danh-muc-hang-hoa-nhap-khau-va-cac-luu-y-van-chuyen/
+14:31:23	Error: 	"Not Found" (404) at link baogam.com/thong-bao-danh-muc-cac-san-pham-khong-mua-khong-van-chuyen/; (from baogam.com/thong-bao-danh-muc-cac-san-pham-khong-mua-khong-van-chuyen/)
+14:31:23	Warning: 	Moved Permanently for baogam.com/?p=3059
+14:31:23	Warning: 	File has moved from baogam.com/?p=3059 to http://baogam.com/nguyen-tac-quy-doi-trong-luong-tinh-phi-cho-hang-hoa/
+14:31:23	Error: 	"Not Found" (404) at link baogam.com/nguyen-tac-quy-doi-trong-luong-tinh-phi-cho-hang-hoa/; (from baogam.com/nguyen-tac-quy-doi-trong-luong-tinh-phi-cho-hang-hoa/)
+14:31:27	Warning: 	Moved Permanently for baogam.com/?p=3187
+14:31:27	Warning: 	File has moved from baogam.com/?p=3187 to http://baogam.com/danh-muc-hang-hoa-nhap-khau-va-cac-luu-y-van-chuyen/
+14:31:27	Error: 	"Not Found" (404) at link baogam.com/danh-muc-hang-hoa-nhap-khau-va-cac-luu-y-van-chuyen/; (from baogam.com/danh-muc-hang-hoa-nhap-khau-va-cac-luu-y-van-chuyen/)
+14:31:27	Warning: 	Moved Permanently for baogam.com/?p=2354
+14:31:27	Warning: 	File has moved from baogam.com/?p=2354 to http://baogam.com/quy-trinh-va-thoi-gian-xu-ly-khieu-nai/
+14:31:27	Error: 	"Not Found" (404) at link baogam.com/quy-trinh-va-thoi-gian-xu-ly-khieu-nai/; (from baogam.com/quy-trinh-va-thoi-gian-xu-ly-khieu-nai/)
+14:31:34	Warning: 	Moved Permanently for baogam.com/?p=5379
+14:31:34	Warning: 	File has moved from baogam.com/?p=5379 to http://baogam.com/chinh-sach-mua-hang-doi-voi-don-hang-ngoai/
+14:31:34	Error: 	"Not Found" (404) at link baogam.com/chinh-sach-mua-hang-doi-voi-don-hang-ngoai/; (from baogam.com/chinh-sach-mua-hang-doi-voi-don-hang-ngoai/)
+14:31:42	Warning: 	Moved Permanently for baogam.com/?p=5152
+14:31:42	Warning: 	File has moved from baogam.com/?p=5152 to http://baogam.com/chinh-sach-quan-bot-khi/
+14:31:42	Error: 	"Not Found" (404) at link baogam.com/chinh-sach-quan-bot-khi/; (from baogam.com/chinh-sach-quan-bot-khi/)
+14:31:44	Warning: 	Moved Permanently for baogam.com/?p=3053
+14:31:44	Warning: 	File has moved from baogam.com/?p=3053 to http://baogam.com/cs-chuyen-phat-tiet-kiem/
+14:31:44	Error: 	"Not Found" (404) at link baogam.com/cs-chuyen-phat-tiet-kiem/; (from baogam.com/cs-chuyen-phat-tiet-kiem/)
+14:31:44	Warning: 	Moved Permanently for baogam.com/?p=2300
+14:31:44	Warning: 	File has moved from baogam.com/?p=2300 to http://baogam.com/chinh-sach-van-chuyen-quoc-te/
+14:31:44	Error: 	"Not Found" (404) at link baogam.com/chinh-sach-van-chuyen-quoc-te/; (from baogam.com/chinh-sach-van-chuyen-quoc-te/)
+14:31:44	Warning: 	Moved Permanently for baogam.com/?p=2297
+14:31:44	Warning: 	File has moved from baogam.com/?p=2297 to http://baogam.com/chinh-sach-mua-hang/
+14:31:44	Error: 	"Not Found" (404) at link baogam.com/chinh-sach-mua-hang/; (from baogam.com/chinh-sach-mua-hang/)
+14:31:44	Warning: 	Moved Permanently for baogam.com/?p=2294
+14:31:44	Warning: 	File has moved from baogam.com/?p=2294 to http://baogam.com/chinh-sach-luu-kho/
+14:31:44	Error: 	"Not Found" (404) at link baogam.com/chinh-sach-luu-kho/; (from baogam.com/chinh-sach-luu-kho/)
+14:31:44	Warning: 	Moved Permanently for baogam.com/?p=2291
+14:31:44	Warning: 	File has moved from baogam.com/?p=2291 to http://baogam.com/chinh-sach-kiem-hang/
+14:31:44	Error: 	"Not Found" (404) at link baogam.com/huong-dan/danh-cho-khach-hang-moi/huong-dan-cach-thuc-danh-gia-uy-tin-nha-cung-cap/ (from baogam.com/chinh-sach-kiem-hang/)
+14:31:44	Error: 	"Not Found" (404) at link baogam.com/chinh-sach-kiem-hang/; (from baogam.com/chinh-sach-kiem-hang/)
+14:31:44	Warning: 	Moved Permanently for baogam.com/?p=2287
+14:31:44	Warning: 	File has moved from baogam.com/?p=2287 to http://baogam.com/chinh-sach-thanh-vien-than-thiet/
+14:31:44	Error: 	"Not Found" (404) at link baogam.com/chinh-sach-thanh-vien-than-thiet/; (from baogam.com/chinh-sach-thanh-vien-than-thiet/)
+14:31:44	Warning: 	Moved Permanently for baogam.com/?p=2283
+14:31:44	Warning: 	File has moved from baogam.com/?p=2283 to http://baogam.com/chinh-sach-giao-hang-noi-dia-vn/
+14:31:44	Error: 	"Not Found" (404) at link baogam.com/chinh-sach-giao-hang-noi-dia-vn/; (from baogam.com/chinh-sach-giao-hang-noi-dia-vn/)
+14:31:44	Warning: 	Moved Permanently for baogam.com/?p=2277
+14:31:44	Warning: 	File has moved from baogam.com/?p=2277 to http://baogam.com/chinh-sach-dong-go/
+14:31:44	Error: 	"Not Found" (404) at link baogam.com/chinh-sach-dong-go/; (from baogam.com/chinh-sach-dong-go/)
+14:31:47	Warning: 	Moved Permanently for baogam.com/category/chinh-sach/page/1/
+14:31:47	Warning: 	File has moved from baogam.com/category/chinh-sach/page/1/ to http://baogam.com/category/chinh-sach/
+14:31:47	Error: 	"Not Found" (404) at link baogam.com/category/chinh-sach/page/2/; (from baogam.com/category/chinh-sach/page/2/)
+14:31:53	Warning: 	Moved Permanently for baogam.com/?p=4926
+14:31:53	Warning: 	File has moved from baogam.com/?p=4926 to http://baogam.com/huong-dan-cai-dat-cong-cu-dat-hang-baogam-offline-2/
+14:31:53	Error: 	"Not Found" (404) at link baogam.com/huong-dan-cai-dat-cong-cu-dat-hang-baogam-offline-2/; (from baogam.com/huong-dan-cai-dat-cong-cu-dat-hang-baogam-offline-2/)
+14:32:00	Warning: 	Moved Permanently for baogam.com/?p=4259
+14:32:00	Warning: 	File has moved from baogam.com/?p=4259 to http://baogam.com/huong-dan-doi-link-taobao-tmall-1688-com-tu-dien-thoai-sang-may-tinh/
+14:32:00	Error: 	"Not Found" (404) at link baogam.com/huong-dan-doi-link-taobao-tmall-1688-com-tu-dien-thoai-sang-may-tinh/; (from baogam.com/huong-dan-doi-link-taobao-tmall-1688-com-tu-dien-thoai-sang-may-tinh/)
+14:32:07	Warning: 	Moved Permanently for baogam.com/?p=4118
+14:32:07	Warning: 	File has moved from baogam.com/?p=4118 to http://baogam.com/huong-dan-dang-ky-tai-khoan-taobao-com-1688-com-tmall-com/
+14:32:07	Error: 	"Not Found" (404) at link baogam.com/huong-dan-dang-ky-tai-khoan-taobao-com-1688-com-tmall-com/; (from baogam.com/huong-dan-dang-ky-tai-khoan-taobao-com-1688-com-tmall-com/)
+14:32:14	Warning: 	Moved Permanently for baogam.com/?p=4071
+14:32:14	Warning: 	File has moved from baogam.com/?p=4071 to http://baogam.com/huong-dan-lay-lai-mat-khau-tai-khoan-bao-gam/
+14:32:14	Error: 	"Not Found" (404) at link baogam.com/huong-dan-lay-lai-mat-khau-tai-khoan-bao-gam/; (from baogam.com/huong-dan-lay-lai-mat-khau-tai-khoan-bao-gam/)
+14:32:14	Warning: 	Moved Permanently for baogam.com/?p=2555
+14:32:14	Warning: 	File has moved from baogam.com/?p=2555 to http://baogam.com/lua-chon-dich-vu-cho-don-hang/
+14:32:14	Error: 	"Not Found" (404) at link baogam.com/lua-chon-dich-vu-cho-don-hang/; (from baogam.com/lua-chon-dich-vu-cho-don-hang/)
+14:32:14	Warning: 	Moved Permanently for baogam.com/?p=2242
+14:32:14	Warning: 	File has moved from baogam.com/?p=2242 to http://baogam.com/hd-nhap-hang-qua-baogam-tu-a-z/
+14:32:14	Error: 	"Not Found" (404) at link baogam.com/hd-nhap-hang-qua-baogam-tu-a-z/; (from baogam.com/hd-nhap-hang-qua-baogam-tu-a-z/)
+14:32:15	Warning: 	Moved Permanently for baogam.com/?p=2401
+14:32:15	Warning: 	File has moved from baogam.com/?p=2401 to http://baogam.com/huong-dan-tim-nguon-hang-danh-cho-nguoi-moi-2/
+14:32:15	Error: 	"Not Found" (404) at link baogam.com/huong-dan-tim-nguon-hang-danh-cho-nguoi-moi-2/; (from baogam.com/huong-dan-tim-nguon-hang-danh-cho-nguoi-moi-2/)
+14:32:15	Warning: 	Moved Permanently for baogam.com/?p=2398
+14:32:15	Warning: 	File has moved from baogam.com/?p=2398 to http://baogam.com/quan-ly-danh-sach-khieu-nai-dich-vu/
+14:32:15	Error: 	"Not Found" (404) at link baogam.com/quan-ly-danh-sach-khieu-nai-dich-vu/; (from baogam.com/quan-ly-danh-sach-khieu-nai-dich-vu/)
+14:32:15	Warning: 	Moved Permanently for baogam.com/?p=2395
+14:32:15	Warning: 	File has moved from baogam.com/?p=2395 to http://baogam.com/diem-tich-luy-la-gi/
+14:32:15	Error: 	"Not Found" (404) at link baogam.com/diem-tich-luy-la-gi/; (from baogam.com/diem-tich-luy-la-gi/)
+14:32:15	Warning: 	Moved Permanently for baogam.com/?p=2381
+14:32:15	Warning: 	File has moved from baogam.com/?p=2381 to http://baogam.com/huong-dan-nap-tien-vao-tai-khoan/
+14:32:15	Error: 	"Not Found" (404) at link baogam.com/huong-dan-nap-tien-vao-tai-khoan/; (from baogam.com/huong-dan-nap-tien-vao-tai-khoan/)
+14:32:32	Warning: 	Moved Permanently for baogam.com/category/huong-dan/page/1/
+14:32:32	Warning: 	File has moved from baogam.com/category/huong-dan/page/1/ to http://baogam.com/category/huong-dan/
+14:32:32	Error: 	"Not Found" (404) at link baogam.com/category/huong-dan/page/2/; (from baogam.com/category/huong-dan/page/2/)
+14:32:32	Warning: 	Moved Permanently for baogam.com/?p=5697
+14:32:32	Warning: 	File has moved from baogam.com/?p=5697 to http://baogam.com/baogam-thong-bao-mo-lai-dich-vu-mua-san-pham-co-thuong-hieu-2/
+14:32:33	Warning: 	Retry after error -2 (Receive Time Out) at link baogam.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fbaogam.com%2Fbaogam-thong-bao-mo-lai-dich-vu-mua-san-pham-co-thuong-hieu-2%2F (from baogam.com/baogam-thong-bao-mo-lai-dich-vu-mua-san-pham-co-thuong-hieu-2/)
+14:32:33	Error: 	"Not Found" (404) at link baogam.com/baogam-thong-bao-mo-lai-dich-vu-mua-san-pham-co-thuong-hieu-2/; (from baogam.com/baogam-thong-bao-mo-lai-dich-vu-mua-san-pham-co-thuong-hieu-2/)
+14:32:33	Warning: 	Moved Permanently for baogam.com/?p=5689
+14:32:33	Warning: 	File has moved from baogam.com/?p=5689 to http://baogam.com/thong-bao-lich-nghi-gio-to-hung-vuong-3004-va-01052022/
+14:32:33	Error: 	"Not Found" (404) at link baogam.com/thong-bao-lich-nghi-gio-to-hung-vuong-3004-va-01052022/; (from baogam.com/thong-bao-lich-nghi-gio-to-hung-vuong-3004-va-01052022/)
+14:32:33	Warning: 	Moved Permanently for baogam.com/?p=5686
+14:32:33	Warning: 	File has moved from baogam.com/?p=5686 to http://baogam.com/baogam-cap-nhat-thong-tin-van-chuyen-trung-quoc-viet-nam/
+14:32:33	Error: 	"Not Found" (404) at link baogam.com/baogam-cap-nhat-thong-tin-van-chuyen-trung-quoc-viet-nam/; (from baogam.com/baogam-cap-nhat-thong-tin-van-chuyen-trung-quoc-viet-nam/)
+14:32:33	Warning: 	Moved Permanently for baogam.com/?p=5682
+14:32:33	Warning: 	File has moved from baogam.com/?p=5682 to http://baogam.com/baogam-thong-bao-dieu-chinh-giam-ty-gia-ngay-16032022/
+14:32:33	Error: 	"Not Found" (404) at link baogam.com/baogam-thong-bao-dieu-chinh-giam-ty-gia-ngay-16032022/; (from baogam.com/baogam-thong-bao-dieu-chinh-giam-ty-gia-ngay-16032022/)
+14:32:37	Warning: 	Moved Permanently for baogam.com/?p=5680
+14:32:37	Warning: 	File has moved from baogam.com/?p=5680 to http://baogam.com/baogam-cap-nhat-thong-tin-cham-thong-quan-trung-quoc-viet-nam-do-anh-huong-cua-dich-covid-19/
+14:32:37	Error: 	"Not Found" (404) at link baogam.com/baogam-cap-nhat-thong-tin-cham-thong-quan-trung-quoc-viet-nam-do-anh-huong-cua-dich-covid-19/; (from baogam.com/baogam-cap-nhat-thong-tin-cham-thong-quan-trung-quoc-viet-nam-do-anh-huong-cua-dich-covid-19/)
+14:32:58	Warning: 	Moved Permanently for baogam.com/category/thong-bao-bao-gam/page/1/
+14:32:58	Warning: 	File has moved from baogam.com/category/thong-bao-bao-gam/page/1/ to http://baogam.com/category/thong-bao-bao-gam/
+14:33:03	Error: 	"Not Found" (404) at link baogam.com/category/thong-bao-bao-gam/page/2/; (from baogam.com/category/thong-bao-bao-gam/page/2/)
+14:33:38	Error: 	"Not Found" (404) at link baogam.com/category/thong-bao-bao-gam/page/3/; (from baogam.com/category/thong-bao-bao-gam/page/3/)
+14:34:10	Error: 	"Not Found" (404) at link baogam.com/category/thong-bao-bao-gam/page/4/; (from baogam.com/category/thong-bao-bao-gam/page/4/)
+14:35:34	Error: 	"Not Found" (404) at link baogam.com/category/thong-bao-bao-gam/page/5/; (from baogam.com/category/thong-bao-bao-gam/page/5/)
+14:38:41	Error: 	"Not Found" (404) at link baogam.com/category/thong-bao-bao-gam/page/6/; (from baogam.com/category/thong-bao-bao-gam/page/6/)
+14:39:35	Error: 	"Not Found" (404) at link baogam.com/category/thong-bao-bao-gam/page/7/; (from baogam.com/category/thong-bao-bao-gam/page/7/)
+14:39:58	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 2783): baogam.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fbaogam.com%2Fthong-bao-dieu-chinh-muc-trong-luong-va-dieu-chinh-giam-phi-vcqt-ve-viet-nam%2F
+14:40:13	Error: 	"Not Found" (404) at link baogam.com/category/thong-bao-bao-gam/page/8/; (from baogam.com/category/thong-bao-bao-gam/page/8/)
+14:40:45	Error: 	"Not Found" (404) at link baogam.com/category/thong-bao-bao-gam/page/9/; (from baogam.com/category/thong-bao-bao-gam/page/9/)
+14:41:16	Error: 	"Not Found" (404) at link baogam.com/category/thong-bao-bao-gam/page/10/; (from baogam.com/category/thong-bao-bao-gam/page/10/)
+14:41:41	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 2647): baogam.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fbaogam.com%2Fthong-bao-dieu-chinh-giam-phi-van-chuyen-quoc-te-ve-viet-nam-2%2F
+14:41:50	Error: 	"Not Found" (404) at link baogam.com/category/thong-bao-bao-gam/page/11/; (from baogam.com/category/thong-bao-bao-gam/page/11/)
+14:42:30	Error: 	"Not Found" (404) at link baogam.com/category/thong-bao-bao-gam/page/27/; (from baogam.com/category/thong-bao-bao-gam/page/27/)
+14:42:31	Warning: 	Moved Permanently for baogam.com/?p=3403
+14:42:31	Warning: 	File has moved from baogam.com/?p=3403 to http://baogam.com/huong-dan-cai-dat-cong-cu-dat-hang/
+14:42:32	Error: 	"Not Found" (404) at link baogam.com/huong-dan-cai-dat-cong-cu-dat-hang/; (from baogam.com/huong-dan-cai-dat-cong-cu-dat-hang/)
+14:42:35	Warning: 	Retry after error -4 (Connect Error) at link junk.metafilter.com/xfn.gif (from gmpg.org/xfn/more)
+14:42:36	Warning: 	Retry after error 500 () at link order.baogam.com/i/assets/images/bg-input.png (from order.baogam.com/i/assets/css/main.css?v=220405)
+14:42:36	Warning: 	Retry after error 500 () at link order.baogam.com/i/assets/images/bg-input-focus.png (from order.baogam.com/i/assets/css/main.css?v=220405)
+14:42:36	Warning: 	Retry after error 500 () at link order.baogam.com/i/assets/fonts/glyphicons-halflings-regular.eot (from order.baogam.com/i/assets/css/main.css?v=220405)
+14:42:36	Warning: 	Retry after error 500 () at link order.baogam.com/i/assets/fonts/glyphicons-halflings-regular.eot? (from order.baogam.com/i/assets/css/main.css?v=220405)
+14:42:36	Warning: 	Retry after error 500 (Internal Server Error) at link order.baogam.com/i/assets/fonts/glyphicons-halflings-regular.woff2 (from order.baogam.com/i/assets/css/main.css?v=220405)
+14:42:37	Warning: 	Retry after error 500 () at link order.baogam.com/i/assets/fonts/glyphicons-halflings-regular.woff (from order.baogam.com/i/assets/css/main.css?v=220405)
+14:42:37	Warning: 	Retry after error 500 () at link order.baogam.com/i/assets/fonts/glyphicons-halflings-regular.ttf (from order.baogam.com/i/assets/css/main.css?v=220405)
+14:42:37	Warning: 	Retry after error 500 () at link order.baogam.com/i/assets/fonts/glyphicons-halflings-regular.svg (from order.baogam.com/i/assets/css/main.css?v=220405)
+14:42:37	Warning: 	Retry after error 500 (Internal Server Error) at link order.baogam.com/i/assets/font/weathericons-regular-webfont.eot (from order.baogam.com/i/assets/css/main.css?v=220405)
+14:42:37	Warning: 	Retry after error 500 () at link order.baogam.com/i/assets/font/weathericons-regular-webfont.eot? (from order.baogam.com/i/assets/css/main.css?v=220405)
+14:42:37	Warning: 	Retry after error 500 () at link order.baogam.com/i/assets/font/weathericons-regular-webfont.woff (from order.baogam.com/i/assets/css/main.css?v=220405)
+14:42:37	Warning: 	Retry after error 500 () at link order.baogam.com/i/assets/font/weathericons-regular-webfont.ttf (from order.baogam.com/i/assets/css/main.css?v=220405)
+14:42:37	Warning: 	Retry after error 500 () at link order.baogam.com/i/assets/font/weathericons-regular-webfont.svg (from order.baogam.com/i/assets/css/main.css?v=220405)
+14:42:37	Warning: 	Retry after error 500 () at link order.baogam.com/i/assets/css/images/metroIcons_light.jpg (from order.baogam.com/i/assets/css/main.css?v=220405)
+14:42:37	Warning: 	Retry after error 500 () at link order.baogam.com/i/assets/css/images/metroIcons.jpg (from order.baogam.com/i/assets/css/main.css?v=220405)
+14:42:37	Warning: 	Retry after error 500 () at link order.baogam.com/i/assets/images/profile-cover.png (from order.baogam.com/i/assets/css/main.css?v=220405)
+14:42:37	Warning: 	Retry after error 500 () at link order.baogam.com/i/assets/images/coming-soon.jpg (from order.baogam.com/i/assets/css/main.css?v=220405)
+14:42:37	Warning: 	Moved Permanently for baogam.com/?p=3065
+14:42:37	Warning: 	File has moved from baogam.com/?p=3065 to http://baogam.com/tai-khoan-nap-tien/
+14:42:37	Error: 	"Not Found" (404) at link baogam.com/wp-content/uploads/2017/03/Tai-khoan.png (from baogam.com/tai-khoan-nap-tien/)
+14:42:37	Error: 	"Not Found" (404) at link baogam.com/tai-khoan-nap-tien/; (from baogam.com/tai-khoan-nap-tien/)
+14:42:38	Warning: 	Moved Permanently for baogam.com/?p=2361
+14:42:38	Warning: 	File has moved from baogam.com/?p=2361 to http://baogam.com/mot-so-thac-mac-hay-gap-khi-moi-dat-hang/
+14:42:38	Error: 	"Not Found" (404) at link baogam.com/mot-so-thac-mac-hay-gap-khi-moi-dat-hang/; (from baogam.com/mot-so-thac-mac-hay-gap-khi-moi-dat-hang/)
+14:42:38	Warning: 	Moved Permanently for baogam.com/?p=2321
+14:42:38	Warning: 	File has moved from baogam.com/?p=2321 to http://baogam.com/cau-hoi-thuong-gap-ve-tai-khoan-va-dat-hang/
+14:42:38	Error: 	"Not Found" (404) at link baogam.com/cau-hoi-thuong-gap-ve-tai-khoan-va-dat-hang/; (from baogam.com/cau-hoi-thuong-gap-ve-tai-khoan-va-dat-hang/)
+14:42:38	Warning: 	Moved Permanently for baogam.com/?p=2248
+14:42:38	Warning: 	File has moved from baogam.com/?p=2248 to http://baogam.com/huong-dan-cach-thuc-danh-gia-uy-tin-nha-cung-cap/
+14:42:38	Error: 	"Not Found" (404) at link baogam.com/huong-dan-cach-thuc-danh-gia-uy-tin-nha-cung-cap/; (from baogam.com/huong-dan-cach-thuc-danh-gia-uy-tin-nha-cung-cap/)
+14:42:38	Warning: 	Moved Permanently for baogam.com/?p=2378
+14:42:38	Warning: 	File has moved from baogam.com/?p=2378 to http://baogam.com/huong-dan-nhap-hang-qua-baogam-tu-a-z/
+14:42:38	Error: 	"Not Found" (404) at link baogam.com/huong-dan-nhap-hang-qua-baogam-tu-a-z/; (from baogam.com/huong-dan-nhap-hang-qua-baogam-tu-a-z/)
+14:42:38	Warning: 	Moved Permanently for baogam.com/?p=2369
+14:42:38	Warning: 	File has moved from baogam.com/?p=2369 to http://baogam.com/huong-dan-yeu-cau-giao-hang/
+14:42:38	Error: 	"Not Found" (404) at link baogam.com/huong-dan-yeu-cau-giao-hang/; (from baogam.com/huong-dan-yeu-cau-giao-hang/)
+14:42:38	Warning: 	Moved Permanently for baogam.com/?p=2356
+14:42:38	Warning: 	File has moved from baogam.com/?p=2356 to http://baogam.com/quan-ly-tinh-trang-don-hang/
+14:42:38	Error: 	"Not Found" (404) at link baogam.com/quan-ly-tinh-trang-don-hang/; (from baogam.com/quan-ly-tinh-trang-don-hang/)
+14:42:38	Warning: 	Moved Permanently for baogam.com/?p=2349
+14:42:38	Warning: 	File has moved from baogam.com/?p=2349 to http://baogam.com/thong-ke-lich-su-nhap-hang/
+14:42:38	Error: 	"Not Found" (404) at link baogam.com/thong-ke-lich-su-nhap-hang/; (from baogam.com/thong-ke-lich-su-nhap-hang/)
+14:42:38	Warning: 	Moved Permanently for baogam.com/?p=2343
+14:42:38	Warning: 	File has moved from baogam.com/?p=2343 to http://baogam.com/so-du-tai-khoan-va-lich-su-giao-dich/
+14:42:38	Error: 	"Not Found" (404) at link baogam.com/so-du-tai-khoan-va-lich-su-giao-dich/; (from baogam.com/so-du-tai-khoan-va-lich-su-giao-dich/)
+14:42:38	Warning: 	Moved Permanently for baogam.com/?p=2335
+14:42:38	Warning: 	File has moved from baogam.com/?p=2335 to http://baogam.com/tao-va-dat-coc-don-hang/
+14:42:38	Error: 	"Not Found" (404) at link baogam.com/tao-va-dat-coc-don-hang/; (from baogam.com/tao-va-dat-coc-don-hang/)
+14:42:57	Warning: 	Moved Permanently for baogam.com/category/dat-hang-va-quan-ly-don/page/1/
+14:42:57	Warning: 	File has moved from baogam.com/category/dat-hang-va-quan-ly-don/page/1/ to http://baogam.com/category/dat-hang-va-quan-ly-don/
+14:42:57	Error: 	"Not Found" (404) at link baogam.com/category/dat-hang-va-quan-ly-don/page/2/; (from baogam.com/category/dat-hang-va-quan-ly-don/page/2/)
+14:42:57	Warning: 	Moved Permanently for baogam.com/?p=2325
+14:42:57	Warning: 	File has moved from baogam.com/?p=2325 to http://baogam.com/cau-hoi-thuong-gap-ve-giai-quyet-khieu-nai/
+14:42:57	Error: 	"Not Found" (404) at link baogam.com/cau-hoi-thuong-gap-ve-giai-quyet-khieu-nai/; (from baogam.com/cau-hoi-thuong-gap-ve-giai-quyet-khieu-nai/)
+14:42:57	Warning: 	Moved Permanently for baogam.com/?p=2266
+14:42:57	Warning: 	File has moved from baogam.com/?p=2266 to http://baogam.com/chinh-sach-khieu-nai-dich-vu/
+14:42:57	Error: 	"Not Found" (404) at link baogam.com/chinh-sach-khieu-nai-dich-vu/; (from baogam.com/chinh-sach-khieu-nai-dich-vu/)
+14:42:57	Warning: 	Moved Permanently for baogam.com/?p=2263
+14:42:57	Warning: 	File has moved from baogam.com/?p=2263 to http://baogam.com/chinh-sach-doitra-hang/
+14:42:57	Error: 	"Not Found" (404) at link baogam.com/chinh-sach-doitra-hang/; (from baogam.com/chinh-sach-doitra-hang/)
+14:42:57	Warning: 	Moved Permanently for baogam.com/?p=2367
+14:42:57	Warning: 	File has moved from baogam.com/?p=2367 to http://baogam.com/huong-dan-rut-tien-khoi-tai-khoan-bao-gam/
+14:42:57	Error: 	"Not Found" (404) at link baogam.com/huong-dan-rut-tien-khoi-tai-khoan-bao-gam/; (from baogam.com/huong-dan-rut-tien-khoi-tai-khoan-bao-gam/)
+14:42:57	Warning: 	Moved Permanently for baogam.com/?p=5552
+14:42:57	Warning: 	File has moved from baogam.com/?p=5552 to http://baogam.com/thong-bao-thuc-hien-thu-phi-luu-kho-hang-hoa-theo-chinh-sach/
+14:42:57	Error: 	"Not Found" (404) at link baogam.com/thong-bao-thuc-hien-thu-phi-luu-kho-hang-hoa-theo-chinh-sach/; (from baogam.com/thong-bao-thuc-hien-thu-phi-luu-kho-hang-hoa-theo-chinh-sach/)
+14:42:57	Warning: 	Moved Permanently for baogam.com/?p=5512
+14:42:57	Warning: 	File has moved from baogam.com/?p=5512 to http://baogam.com/baogam-thong-bao-dieu-chinh-tang-ty-gia-ngay-07102021/
+14:42:57	Error: 	"Not Found" (404) at link baogam.com/baogam-thong-bao-dieu-chinh-tang-ty-gia-ngay-07102021/; (from baogam.com/baogam-thong-bao-dieu-chinh-tang-ty-gia-ngay-07102021/)
+14:42:59	Warning: 	Moved Permanently for baogam.com/?p=5244
+14:42:59	Warning: 	File has moved from baogam.com/?p=5244 to http://baogam.com/baogam-thong-bao-dieu-chinh-tang-ty-gia-ngay-08102020/
+14:42:59	Error: 	"Not Found" (404) at link baogam.com/baogam-thong-bao-dieu-chinh-tang-ty-gia-ngay-08102020/; (from baogam.com/baogam-thong-bao-dieu-chinh-tang-ty-gia-ngay-08102020/)
+14:43:00	Warning: 	Moved Permanently for baogam.com/?p=2272
+14:43:00	Warning: 	File has moved from baogam.com/?p=2272 to http://baogam.com/chinh-sach-don-hang-chuyen-thang/
+14:43:00	Error: 	"Not Found" (404) at link baogam.com/chinh-sach-don-hang-chuyen-thang/; (from baogam.com/chinh-sach-don-hang-chuyen-thang/)
+14:43:00	Warning: 	Moved Permanently for baogam.com/?p=2274
+14:43:00	Warning: 	File has moved from baogam.com/?p=2274 to http://baogam.com/chinh-sach-chuyen-phat-nhanh-quoc-te/
+14:43:00	Error: 	"Not Found" (404) at link baogam.com/chinh-sach-chuyen-phat-nhanh-quoc-te/; (from baogam.com/chinh-sach-chuyen-phat-nhanh-quoc-te/)
+14:43:00	Warning: 	Moved Permanently for baogam.com/?p=2323
+14:43:00	Warning: 	File has moved from baogam.com/?p=2323 to http://baogam.com/cau-hoi-thuong-gap-ve-giao-hang/
+14:43:00	Error: 	"Not Found" (404) at link baogam.com/cau-hoi-thuong-gap-ve-giao-hang/; (from baogam.com/cau-hoi-thuong-gap-ve-giao-hang/)
+14:43:02	Warning: 	Moved Permanently for baogam.com/?p=3327
+14:43:02	Warning: 	File has moved from baogam.com/?p=3327 to http://baogam.com/thong-bao-dieu-chinh-ty-gia-dong-ndt-ngay-1282017/
+14:43:02	Error: 	"Not Found" (404) at link baogam.com/thong-bao-dieu-chinh-ty-gia-dong-ndt-ngay-1282017/; (from baogam.com/thong-bao-dieu-chinh-ty-gia-dong-ndt-ngay-1282017/)
+14:43:05	Warning: 	Moved Permanently for baogam.com/?p=3342
+14:43:05	Warning: 	File has moved from baogam.com/?p=3342 to http://baogam.com/thong-bao-nang-cap-server-he-thong-ngay-25082017/
+14:43:05	Error: 	"Not Found" (404) at link baogam.com/thong-bao-nang-cap-server-he-thong-ngay-25082017/; (from baogam.com/thong-bao-nang-cap-server-he-thong-ngay-25082017/)
+14:43:05	Warning: 	Moved Permanently for baogam.com/?p=2871
+14:43:05	Warning: 	File has moved from baogam.com/?p=2871 to http://baogam.com/baogam-thong-bao-lich-nghi-tet-nguyen-dan-2017/
+14:43:05	Error: 	"Not Found" (404) at link baogam.com/baogam-thong-bao-lich-nghi-tet-nguyen-dan-2017/; (from baogam.com/baogam-thong-bao-lich-nghi-tet-nguyen-dan-2017/)
+14:43:05	Warning: 	Moved Permanently for baogam.com/?p=5375
+14:43:05	Warning: 	File has moved from baogam.com/?p=5375 to http://baogam.com/baogam-thong-bao-cham-thong-quan-tq-vn-2/
+14:43:05	Error: 	"Not Found" (404) at link baogam.com/baogam-thong-bao-cham-thong-quan-tq-vn-2/; (from baogam.com/baogam-thong-bao-cham-thong-quan-tq-vn-2/)
+14:43:05	Warning: 	Moved Permanently for baogam.com/?p=5385
+14:43:05	Warning: 	File has moved from baogam.com/?p=5385 to http://baogam.com/thong-bao-lich-nghi-gio-to-hung-vuong-3004-va-01052021/
+14:43:05	Error: 	"Not Found" (404) at link baogam.com/thong-bao-lich-nghi-gio-to-hung-vuong-3004-va-01052021/; (from baogam.com/thong-bao-lich-nghi-gio-to-hung-vuong-3004-va-01052021/)
+14:43:08	Warning: 	Moved Permanently for baogam.com/?p=5136
+14:43:08	Warning: 	File has moved from baogam.com/?p=5136 to http://baogam.com/thong-bao-dieu-chinh-tang-phi-van-chuyen-quoc-te-2/
+14:43:08	Error: 	"Not Found" (404) at link baogam.com/thong-bao-dieu-chinh-tang-phi-van-chuyen-quoc-te-2/; (from baogam.com/thong-bao-dieu-chinh-tang-phi-van-chuyen-quoc-te-2/)
+14:43:10	Warning: 	Moved Permanently for baogam.com/?p=5155
+14:43:10	Warning: 	File has moved from baogam.com/?p=5155 to http://baogam.com/thong-bao-ban-hanh-chinh-sach-quan-bot-khi/
+14:43:10	Error: 	"Not Found" (404) at link baogam.com/thong-bao-ban-hanh-chinh-sach-quan-bot-khi/; (from baogam.com/thong-bao-ban-hanh-chinh-sach-quan-bot-khi/)
+14:43:10	Warning: 	Moved Permanently for baogam.com/?p=2960
+14:43:10	Warning: 	File has moved from baogam.com/?p=2960 to http://baogam.com/2960-2/
+14:43:10	Error: 	"Not Found" (404) at link baogam.com/2960-2/; (from baogam.com/2960-2/)
+14:43:10	Warning: 	Moved Permanently for baogam.com/?p=2268
+14:43:10	Warning: 	File has moved from baogam.com/?p=2268 to http://baogam.com/chinh-sach-bao-mat-va-luu-tru-thong-tin/
+14:43:10	Error: 	"Not Found" (404) at link baogam.com/chinh-sach-bao-mat-va-luu-tru-thong-tin/; (from baogam.com/chinh-sach-bao-mat-va-luu-tru-thong-tin/)
+14:43:12	Warning: 	Moved Permanently for baogam.com/?p=4920
+14:43:12	Warning: 	File has moved from baogam.com/?p=4920 to http://baogam.com/tb-chuong-trinh-uu-dai-dac-biet-mung-ngay-doanh-nhan-viet-nam-2019/
+14:43:12	Error: 	"Not Found" (404) at link baogam.com/tb-chuong-trinh-uu-dai-dac-biet-mung-ngay-doanh-nhan-viet-nam-2019/; (from baogam.com/tb-chuong-trinh-uu-dai-dac-biet-mung-ngay-doanh-nhan-viet-nam-2019/)
+14:43:16	Warning: 	Moved Permanently for baogam.com/?p=4932
+14:43:16	Warning: 	File has moved from baogam.com/?p=4932 to http://baogam.com/tb-link-cai-dat-cong-cu-dat-hang-baogam-dang-bi-loi/
+14:43:16	Error: 	"Not Found" (404) at link baogam.com/tb-link-cai-dat-cong-cu-dat-hang-baogam-dang-bi-loi/; (from baogam.com/tb-link-cai-dat-cong-cu-dat-hang-baogam-dang-bi-loi/)
+14:43:20	Warning: 	Moved Permanently for baogam.com/?p=4246
+14:43:20	Warning: 	File has moved from baogam.com/?p=4246 to http://baogam.com/thong-bao-lich-to-chuc-hoat-dong-tap-the-tu-0408-06082018/
+14:43:20	Error: 	"Not Found" (404) at link baogam.com/thong-bao-lich-to-chuc-hoat-dong-tap-the-tu-0408-06082018/; (from baogam.com/thong-bao-lich-to-chuc-hoat-dong-tap-the-tu-0408-06082018/)
+14:43:24	Warning: 	Moved Permanently for baogam.com/?p=4262
+14:43:24	Warning: 	File has moved from baogam.com/?p=4262 to http://baogam.com/thong-bao-dieu-chinh-giam-ty-gia-dong-ndt-ngay-14082018/
+14:43:24	Error: 	"Not Found" (404) at link baogam.com/thong-bao-dieu-chinh-giam-ty-gia-dong-ndt-ngay-14082018/; (from baogam.com/thong-bao-dieu-chinh-giam-ty-gia-dong-ndt-ngay-14082018/)
+14:43:29	Warning: 	Moved Permanently for baogam.com/?p=4100
+14:43:29	Warning: 	File has moved from baogam.com/?p=4100 to http://baogam.com/thong-bao-dieu-chinh-giam-ty-gia-dong-ndt-ngay-06052018/
+14:43:29	Error: 	"Not Found" (404) at link baogam.com/thong-bao-dieu-chinh-giam-ty-gia-dong-ndt-ngay-06052018/; (from baogam.com/thong-bao-dieu-chinh-giam-ty-gia-dong-ndt-ngay-06052018/)
+14:43:34	Warning: 	Moved Permanently for baogam.com/?p=4130
+14:43:34	Warning: 	File has moved from baogam.com/?p=4130 to http://baogam.com/thong-bao-ta%cc%a3m-ngung-di%cc%a3ch-vu%cc%a3-trong-ngay-20052018/
+14:43:34	Error: 	"Not Found" (404) at link baogam.com/thong-bao-tạm-ngung-dịch-vụ-trong-ngay-20052018/; (from baogam.com/thong-bao-tạm-ngung-dịch-vụ-trong-ngay-20052018/)
+14:43:38	Warning: 	Moved Permanently for baogam.com/?p=4067
+14:43:38	Warning: 	File has moved from baogam.com/?p=4067 to http://baogam.com/thong-bao-dieu-chinh-tang-ty-gia-dong-ndt-ngay-12032018/
+14:43:38	Error: 	"Not Found" (404) at link baogam.com/thong-bao-dieu-chinh-tang-ty-gia-dong-ndt-ngay-12032018/; (from baogam.com/thong-bao-dieu-chinh-tang-ty-gia-dong-ndt-ngay-12032018/)
+14:43:42	Warning: 	Moved Permanently for baogam.com/?p=4084
+14:43:42	Warning: 	File has moved from baogam.com/?p=4084 to http://baogam.com/thong-bao-dieu-chinh-tang-ty-gia-dong-ndt-ngay-01042018/
+14:43:42	Error: 	"Not Found" (404) at link baogam.com/thong-bao-dieu-chinh-tang-ty-gia-dong-ndt-ngay-01042018/; (from baogam.com/thong-bao-dieu-chinh-tang-ty-gia-dong-ndt-ngay-01042018/)
+14:43:42	Warning: 	Moved Permanently for baogam.com/?p=2372
+14:43:42	Warning: 	File has moved from baogam.com/?p=2372 to http://baogam.com/huong-dan-tao-kn-tren-baogam-com/
+14:43:42	Error: 	"Not Found" (404) at link baogam.com/huong-dan-tao-kn-tren-baogam-com/; (from baogam.com/huong-dan-tao-kn-tren-baogam-com/)
+14:43:42	Warning: 	Moved Permanently for baogam.com/?p=2238
+14:43:42	Warning: 	File has moved from baogam.com/?p=2238 to http://baogam.com/huong-dan-dang-ky-dang-nhap-tai-khoan-bao-gam/
+14:43:42	Error: 	"Not Found" (404) at link baogam.com/huong-dan-dang-ky-dang-nhap-tai-khoan-bao-gam/; (from baogam.com/huong-dan-dang-ky-dang-nhap-tai-khoan-bao-gam/)
+14:43:42	Warning: 	Moved Permanently for baogam.com/?p=5674
+14:43:42	Warning: 	File has moved from baogam.com/?p=5674 to http://baogam.com/thong-bao-dieu-chinh-muc-trong-luong-don-hang-ti-le-dat-coc-va-phi-vcqt-ve-viet-nam/
+14:43:42	Error: 	"Not Found" (404) at link baogam.com/thong-bao-dieu-chinh-muc-trong-luong-don-hang-ti-le-dat-coc-va-phi-vcqt-ve-viet-nam/; (from baogam.com/thong-bao-dieu-chinh-muc-trong-luong-don-hang-ti-le-dat-coc-va-phi-vcqt-ve-viet-nam/)
+14:43:42	Warning: 	Moved Permanently for baogam.com/?p=5670
+14:43:42	Warning: 	File has moved from baogam.com/?p=5670 to http://baogam.com/baogam-thong-bao-dieu-chinh-giam-ty-gia-ngay-10032021/
+14:43:42	Error: 	"Not Found" (404) at link baogam.com/baogam-thong-bao-dieu-chinh-giam-ty-gia-ngay-10032021/; (from baogam.com/baogam-thong-bao-dieu-chinh-giam-ty-gia-ngay-10032021/)
+14:43:42	Warning: 	Moved Permanently for baogam.com/?p=5668
+14:43:42	Warning: 	File has moved from baogam.com/?p=5668 to http://baogam.com/baogam-thong-bao-cham-thong-quan-trung-quoc-viet-nam-do-anh-huong-cua-dich-covid-19/
+14:43:42	Error: 	"Not Found" (404) at link baogam.com/baogam-thong-bao-cham-thong-quan-trung-quoc-viet-nam-do-anh-huong-cua-dich-covid-19/; (from baogam.com/baogam-thong-bao-cham-thong-quan-trung-quoc-viet-nam-do-anh-huong-cua-dich-covid-19/)
+14:43:42	Warning: 	Moved Permanently for baogam.com/?p=5664
+14:43:42	Warning: 	File has moved from baogam.com/?p=5664 to http://baogam.com/thong-bao-dieu-chinh-tang-phi-vcqt-ve-viet-nam-ngay-06032022/
+14:43:42	Error: 	"Not Found" (404) at link baogam.com/thong-bao-dieu-chinh-tang-phi-vcqt-ve-viet-nam-ngay-06032022/; (from baogam.com/thong-bao-dieu-chinh-tang-phi-vcqt-ve-viet-nam-ngay-06032022/)
+14:43:42	Warning: 	Moved Permanently for baogam.com/?p=5661
+14:43:42	Warning: 	File has moved from baogam.com/?p=5661 to http://baogam.com/baogam-thong-bao-dieu-chinh-tang-phi-vcqt-ve-viet-nam-ngay-03032022/
+14:43:42	Error: 	"Not Found" (404) at link baogam.com/baogam-thong-bao-dieu-chinh-tang-phi-vcqt-ve-viet-nam-ngay-03032022/; (from baogam.com/baogam-thong-bao-dieu-chinh-tang-phi-vcqt-ve-viet-nam-ngay-03032022/)
+14:43:42	Warning: 	Moved Permanently for baogam.com/?p=5655
+14:43:42	Warning: 	File has moved from baogam.com/?p=5655 to http://baogam.com/baogam-thong-bao-dung-mua-san-pham-co-thuong-hieuhang-fake/
+14:43:42	Error: 	"Not Found" (404) at link baogam.com/baogam-thong-bao-dung-mua-san-pham-co-thuong-hieuhang-fake/; (from baogam.com/baogam-thong-bao-dung-mua-san-pham-co-thuong-hieuhang-fake/)
+14:43:42	Warning: 	Moved Permanently for baogam.com/?p=5653
+14:43:42	Warning: 	File has moved from baogam.com/?p=5653 to http://baogam.com/baogam-thong-bao-cham-thong-quan-tq-vn-4/
+14:43:42	Error: 	"Not Found" (404) at link baogam.com/baogam-thong-bao-cham-thong-quan-tq-vn-4/; (from baogam.com/baogam-thong-bao-cham-thong-quan-tq-vn-4/)
+14:43:42	Warning: 	Moved Permanently for baogam.com/?p=5649
+14:43:42	Warning: 	File has moved from baogam.com/?p=5649 to http://baogam.com/thong-bao-dieu-chinh-tang-phi-vcqt-ve-viet-nam-ngay-22022022/
+14:43:42	Error: 	"Not Found" (404) at link baogam.com/thong-bao-dieu-chinh-tang-phi-vcqt-ve-viet-nam-ngay-22022022/; (from baogam.com/thong-bao-dieu-chinh-tang-phi-vcqt-ve-viet-nam-ngay-22022022/)
+14:43:42	Warning: 	Moved Permanently for baogam.com/?p=5647
+14:43:42	Warning: 	File has moved from baogam.com/?p=5647 to http://baogam.com/baogam-thong-bao-dieu-chinh-tang-ty-gia-ngay-19022022/
+14:43:42	Error: 	"Not Found" (404) at link baogam.com/baogam-thong-bao-dieu-chinh-tang-ty-gia-ngay-19022022/; (from baogam.com/baogam-thong-bao-dieu-chinh-tang-ty-gia-ngay-19022022/)
+14:43:42	Warning: 	Moved Permanently for baogam.com/?p=5638
+14:43:42	Warning: 	File has moved from baogam.com/?p=5638 to http://baogam.com/thong-bao-dieu-chinh-giam-phi-vcqt-ve-viet-nam-ngay-12022022/
+14:43:42	Error: 	"Not Found" (404) at link baogam.com/thong-bao-dieu-chinh-giam-phi-vcqt-ve-viet-nam-ngay-12022022/; (from baogam.com/thong-bao-dieu-chinh-giam-phi-vcqt-ve-viet-nam-ngay-12022022/)
+14:44:14	Error: 	"Not Found" (404) at link baogam.com/category/thong-bao-bao-gam/page/12/; (from baogam.com/category/thong-bao-bao-gam/page/12/)
+14:44:14	Warning: 	Moved Permanently for baogam.com/?p=5631
+14:44:14	Warning: 	File has moved from baogam.com/?p=5631 to http://baogam.com/chuc-mung-05-khach-hang-nhan-li-xi-222-222d-chuong-trinh-li-xi-loc-xuan-2022/
+14:44:14	Error: 	"Not Found" (404) at link baogam.com/chuc-mung-05-khach-hang-nhan-li-xi-222-222d-chuong-trinh-li-xi-loc-xuan-2022/; (from baogam.com/chuc-mung-05-khach-hang-nhan-li-xi-222-222d-chuong-trinh-li-xi-loc-xuan-2022/)
+14:44:14	Warning: 	Moved Permanently for baogam.com/?p=5626
+14:44:14	Warning: 	File has moved from baogam.com/?p=5626 to http://baogam.com/tb-thay-doi-lich-lam-viec-cua-kho-phan-phoi-viet-nam-sau-tet-nguyen-dan-2022/
+14:44:14	Error: 	"Not Found" (404) at link baogam.com/tb-thay-doi-lich-lam-viec-cua-kho-phan-phoi-viet-nam-sau-tet-nguyen-dan-2022/; (from baogam.com/tb-thay-doi-lich-lam-viec-cua-kho-phan-phoi-viet-nam-sau-tet-nguyen-dan-2022/)
+14:44:14	Warning: 	Moved Permanently for baogam.com/?p=5624
+14:44:14	Warning: 	File has moved from baogam.com/?p=5624 to http://baogam.com/thong-bao-dieu-chinh-lich-lam-viec-cua-kho-phan-phoi-viet-nam/
+14:44:14	Error: 	"Not Found" (404) at link baogam.com/thong-bao-dieu-chinh-lich-lam-viec-cua-kho-phan-phoi-viet-nam/; (from baogam.com/thong-bao-dieu-chinh-lich-lam-viec-cua-kho-phan-phoi-viet-nam/)
+14:44:14	Warning: 	Moved Permanently for baogam.com/?p=5619
+14:44:14	Warning: 	File has moved from baogam.com/?p=5619 to http://baogam.com/chuong-trinh-li-xi-loc-xuan-2022/
+14:44:14	Error: 	"Not Found" (404) at link baogam.com/chuong-trinh-li-xi-loc-xuan-2022/; (from baogam.com/chuong-trinh-li-xi-loc-xuan-2022/)
+14:44:14	Warning: 	Moved Permanently for baogam.com/?p=5614
+14:44:14	Warning: 	File has moved from baogam.com/?p=5614 to http://baogam.com/thong-bao-lich-nghi-va-lich-lam-viec-lai-sau-tet-nguyen-dan-2022/
+14:44:14	Error: 	"Not Found" (404) at link baogam.com/thong-bao-lich-nghi-va-lich-lam-viec-lai-sau-tet-nguyen-dan-2022/; (from baogam.com/thong-bao-lich-nghi-va-lich-lam-viec-lai-sau-tet-nguyen-dan-2022/)
+14:44:14	Warning: 	Moved Permanently for baogam.com/?p=5608
+14:44:14	Warning: 	File has moved from baogam.com/?p=5608 to http://baogam.com/thong-bao-tiep-tuc-gia-han-nhan-don-va-cam-ket-van-chuyen/
+14:44:14	Error: 	"Not Found" (404) at link baogam.com/thong-bao-tiep-tuc-gia-han-nhan-don-va-cam-ket-van-chuyen/; (from baogam.com/thong-bao-tiep-tuc-gia-han-nhan-don-va-cam-ket-van-chuyen/)
+14:44:14	Warning: 	Moved Permanently for baogam.com/?p=5604
+14:44:14	Warning: 	File has moved from baogam.com/?p=5604 to http://baogam.com/baogam-thong-bao-gia-han-nhan-don-va-cam-ket-van-chuyen/
+14:44:14	Error: 	"Not Found" (404) at link baogam.com/baogam-thong-bao-gia-han-nhan-don-va-cam-ket-van-chuyen/; (from baogam.com/baogam-thong-bao-gia-han-nhan-don-va-cam-ket-van-chuyen/)
+14:44:14	Warning: 	Moved Permanently for baogam.com/?p=5598
+14:44:14	Warning: 	File has moved from baogam.com/?p=5598 to http://baogam.com/thong-bao-dieu-chinh-tang-phi-van-chuyen-quoc-te-ve-viet-nam-2/
+14:44:14	Error: 	"Not Found" (404) at link baogam.com/thong-bao-dieu-chinh-tang-phi-van-chuyen-quoc-te-ve-viet-nam-2/; (from baogam.com/thong-bao-dieu-chinh-tang-phi-van-chuyen-quoc-te-ve-viet-nam-2/)
+14:44:14	Warning: 	Moved Permanently for baogam.com/?p=5590
+14:44:14	Warning: 	File has moved from baogam.com/?p=5590 to http://baogam.com/baogam-thong-bao-thoi-gian-ngung-nhan-don-hang-truoc-tet-nham-dan-2022/
+14:44:14	Error: 	"Not Found" (404) at link baogam.com/baogam-thong-bao-thoi-gian-ngung-nhan-don-hang-truoc-tet-nham-dan-2022/; (from baogam.com/baogam-thong-bao-thoi-gian-ngung-nhan-don-hang-truoc-tet-nham-dan-2022/)
+14:44:14	Warning: 	Moved Permanently for baogam.com/?p=5586
+14:44:14	Warning: 	File has moved from baogam.com/?p=5586 to http://baogam.com/baogam-thong-bao-lich-nghi-tet-duong-lich-2022/
+14:44:14	Error: 	"Not Found" (404) at link baogam.com/baogam-thong-bao-lich-nghi-tet-duong-lich-2022/; (from baogam.com/baogam-thong-bao-lich-nghi-tet-duong-lich-2022/)
+14:44:46	Error: 	"Not Found" (404) at link baogam.com/category/thong-bao-bao-gam/page/13/; (from baogam.com/category/thong-bao-bao-gam/page/13/)
+14:44:46	Warning: 	Moved Permanently for baogam.com/?p=5580
+14:44:46	Warning: 	File has moved from baogam.com/?p=5580 to http://baogam.com/thong-bao-dieu-chinh-dieu-kien-thong-quan-hang-hoa-ve-viet-nam/
+14:44:46	Warning: 	Moved Permanently for baogam.com/baogam-thong-bao-cac-mat-hang-tam-dung-van-chuyen-tu-23122021-den-08012022/
+14:44:46	Warning: 	File has moved from baogam.com/baogam-thong-bao-cac-mat-hang-tam-dung-van-chuyen-tu-23122021-den-08012022/ to http://baogam.com/baogam-thong-bao-cac-mat-hang-tam-dung-van-chuyen/
+14:44:46	Error: 	"Not Found" (404) at link baogam.com/thong-bao-dieu-chinh-dieu-kien-thong-quan-hang-hoa-ve-viet-nam/; (from baogam.com/thong-bao-dieu-chinh-dieu-kien-thong-quan-hang-hoa-ve-viet-nam/)
+14:44:46	Warning: 	Moved Permanently for baogam.com/?p=5576
+14:44:46	Warning: 	File has moved from baogam.com/?p=5576 to http://baogam.com/baogam-thong-bao-cac-mat-hang-tam-dung-van-chuyen/
+14:44:46	Error: 	"Not Found" (404) at link baogam.com/baogam-thong-bao-cac-mat-hang-tam-dung-van-chuyen/; (from baogam.com/baogam-thong-bao-cac-mat-hang-tam-dung-van-chuyen/)
+14:44:46	Warning: 	Moved Permanently for baogam.com/?p=5571
+14:44:46	Warning: 	File has moved from baogam.com/?p=5571 to http://baogam.com/thong-bao-dieu-chinh-tang-phi-van-chuyen-quoc-te-ve-viet-nam/
+14:44:46	Error: 	"Not Found" (404) at link baogam.com/thong-bao-dieu-chinh-tang-phi-van-chuyen-quoc-te-ve-viet-nam/; (from baogam.com/thong-bao-dieu-chinh-tang-phi-van-chuyen-quoc-te-ve-viet-nam/)
+14:44:46	Warning: 	Moved Permanently for baogam.com/?p=5569
+14:44:46	Warning: 	File has moved from baogam.com/?p=5569 to http://baogam.com/baogam-thong-bao-dieu-chinh-tang-ty-gia-ngay-15122021/
+14:44:46	Error: 	"Not Found" (404) at link baogam.com/baogam-thong-bao-dieu-chinh-tang-ty-gia-ngay-15122021/; (from baogam.com/baogam-thong-bao-dieu-chinh-tang-ty-gia-ngay-15122021/)
+14:44:46	Warning: 	Moved Permanently for baogam.com/?p=5562
+14:44:46	Warning: 	File has moved from baogam.com/?p=5562 to http://baogam.com/baogam-thong-bao-dieu-chinh-tang-ty-gia-ngay-09122021/
+14:44:46	Error: 	"Not Found" (404) at link baogam.com/baogam-thong-bao-dieu-chinh-tang-ty-gia-ngay-09122021/; (from baogam.com/baogam-thong-bao-dieu-chinh-tang-ty-gia-ngay-09122021/)
+14:44:46	Warning: 	Moved Permanently for baogam.com/?p=5560
+14:44:46	Warning: 	File has moved from baogam.com/?p=5560 to http://baogam.com/baogam-thong-bao-cham-thong-quan-tq-vn-3/
+14:44:46	Error: 	"Not Found" (404) at link baogam.com/baogam-thong-bao-cham-thong-quan-tq-vn-3/; (from baogam.com/baogam-thong-bao-cham-thong-quan-tq-vn-3/)
+14:44:46	Warning: 	Moved Permanently for baogam.com/?p=5550
+14:44:46	Warning: 	File has moved from baogam.com/?p=5550 to http://baogam.com/baogam-thong-bao-dieu-chinh-giam-ty-gia-ngay-09112021/
+14:44:46	Error: 	"Not Found" (404) at link baogam.com/baogam-thong-bao-dieu-chinh-giam-ty-gia-ngay-09112021/; (from baogam.com/baogam-thong-bao-dieu-chinh-giam-ty-gia-ngay-09112021/)
+14:44:46	Warning: 	Moved Permanently for baogam.com/?p=5547
+14:44:46	Warning: 	File has moved from baogam.com/?p=5547 to http://baogam.com/baogam-thong-bao-dieu-chinh-giam-ty-gia-ngay-02112021/
+14:44:46	Error: 	"Not Found" (404) at link baogam.com/baogam-thong-bao-dieu-chinh-giam-ty-gia-ngay-02112021/; (from baogam.com/baogam-thong-bao-dieu-chinh-giam-ty-gia-ngay-02112021/)
+14:44:46	Warning: 	Moved Permanently for baogam.com/?p=5541
+14:44:46	Warning: 	File has moved from baogam.com/?p=5541 to http://baogam.com/baogam-thong-bao-chuong-trinh-ngay-ho%cc%a3i-do%cc%a3c-than-trung-quoc-11112021/
+14:44:46	Error: 	"Not Found" (404) at link baogam.com/baogam-thong-bao-chuong-trinh-ngay-họi-dọc-than-trung-quoc-11112021/; (from baogam.com/baogam-thong-bao-chuong-trinh-ngay-họi-dọc-than-trung-quoc-11112021/)
+14:44:46	Warning: 	Moved Permanently for baogam.com/?p=5539
+14:44:46	Warning: 	File has moved from baogam.com/?p=5539 to http://baogam.com/baogam-thong-bao-dieu-chinh-tang-ty-gia-ngay-20102021/
+14:44:46	Error: 	"Not Found" (404) at link baogam.com/baogam-thong-bao-dieu-chinh-tang-ty-gia-ngay-20102021/; (from baogam.com/baogam-thong-bao-dieu-chinh-tang-ty-gia-ngay-20102021/)
+14:45:03	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 2535): baogam.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fbaogam.com%2Ftb-dieu-chinh-tang-ty-gia-dong-ndt-ngay-20032020%2F
+14:45:08	Error: 	"Not Found" (404) at link baogam.com/category/thong-bao-bao-gam/page/14/; (from baogam.com/category/thong-bao-bao-gam/page/14/)
+14:45:08	Warning: 	Moved Permanently for baogam.com/?p=5537
+14:45:08	Warning: 	File has moved from baogam.com/?p=5537 to http://baogam.com/baogam-thong-bao-dieu-chinh-tang-ty-gia-ngay-18102021/
+14:45:08	Error: 	"Not Found" (404) at link baogam.com/baogam-thong-bao-dieu-chinh-tang-ty-gia-ngay-18102021/; (from baogam.com/baogam-thong-bao-dieu-chinh-tang-ty-gia-ngay-18102021/)
+14:45:08	Warning: 	Moved Permanently for baogam.com/?p=5534
+14:45:08	Warning: 	File has moved from baogam.com/?p=5534 to http://baogam.com/baogam-thong-bao-dieu-chinh-tang-ty-gia-ngay-13102021/
+14:45:08	Error: 	"Not Found" (404) at link baogam.com/baogam-thong-bao-dieu-chinh-tang-ty-gia-ngay-13102021/; (from baogam.com/baogam-thong-bao-dieu-chinh-tang-ty-gia-ngay-13102021/)
+14:45:08	Warning: 	Moved Permanently for baogam.com/?p=5532
+14:45:08	Warning: 	File has moved from baogam.com/?p=5532 to http://baogam.com/chuong-trinh-mung-ngay-doanh-nhan-tri-an-khach-hang/
+14:45:08	Error: 	"Not Found" (404) at link baogam.com/chuong-trinh-mung-ngay-doanh-nhan-tri-an-khach-hang/; (from baogam.com/chuong-trinh-mung-ngay-doanh-nhan-tri-an-khach-hang/)
+14:45:08	Warning: 	Moved Permanently for baogam.com/?p=5530
+14:45:08	Warning: 	File has moved from baogam.com/?p=5530 to http://baogam.com/baogam-thong-bao-dieu-chinh-giam-ty-gia-ngay-11102021/
+14:45:08	Error: 	"Not Found" (404) at link baogam.com/baogam-thong-bao-dieu-chinh-giam-ty-gia-ngay-11102021/; (from baogam.com/baogam-thong-bao-dieu-chinh-giam-ty-gia-ngay-11102021/)
+14:45:08	Warning: 	Moved Permanently for baogam.com/?p=5528
+14:45:08	Warning: 	File has moved from baogam.com/?p=5528 to http://baogam.com/baogam-thong-bao-dieu-chinh-tang-ty-gia-ngay-10102021/
+14:45:08	Error: 	"Not Found" (404) at link baogam.com/baogam-thong-bao-dieu-chinh-tang-ty-gia-ngay-10102021/; (from baogam.com/baogam-thong-bao-dieu-chinh-tang-ty-gia-ngay-10102021/)
+14:45:08	Warning: 	Moved Permanently for baogam.com/?p=5518
+14:45:08	Warning: 	File has moved from baogam.com/?p=5518 to http://baogam.com/ket-qua-chuong-trinh-chung-tay-cung-sai-gon-day-lui-dich-covid/
+14:45:08	Error: 	"Not Found" (404) at link baogam.com/ket-qua-chuong-trinh-chung-tay-cung-sai-gon-day-lui-dich-covid/; (from baogam.com/ket-qua-chuong-trinh-chung-tay-cung-sai-gon-day-lui-dich-covid/)
+14:45:08	Warning: 	Moved Permanently for baogam.com/?p=5516
+14:45:08	Warning: 	File has moved from baogam.com/?p=5516 to http://baogam.com/baogam-thong-bao-dieu-chinh-tang-ty-gia-ngay-07102021-2/
+14:45:08	Error: 	"Not Found" (404) at link baogam.com/baogam-thong-bao-dieu-chinh-tang-ty-gia-ngay-07102021-2/; (from baogam.com/baogam-thong-bao-dieu-chinh-tang-ty-gia-ngay-07102021-2/)
+14:45:08	Warning: 	Moved Permanently for baogam.com/?p=5509
+14:45:08	Warning: 	File has moved from baogam.com/?p=5509 to http://baogam.com/thong-bao-kho-sai-gon-hoat-dong-tro-lai/
+14:45:08	Error: 	"Not Found" (404) at link baogam.com/thong-bao-kho-sai-gon-hoat-dong-tro-lai/; (from baogam.com/thong-bao-kho-sai-gon-hoat-dong-tro-lai/)
+14:45:08	Warning: 	Moved Permanently for baogam.com/?p=5506
+14:45:08	Warning: 	File has moved from baogam.com/?p=5506 to http://baogam.com/baogam-thong-bao-dieu-chinh-tang-ty-gia-ngay-29092021/
+14:45:08	Error: 	"Not Found" (404) at link baogam.com/baogam-thong-bao-dieu-chinh-tang-ty-gia-ngay-29092021/; (from baogam.com/baogam-thong-bao-dieu-chinh-tang-ty-gia-ngay-29092021/)
+14:45:08	Warning: 	Moved Permanently for baogam.com/?p=5504
+14:45:08	Warning: 	File has moved from baogam.com/?p=5504 to http://baogam.com/baogam-thong-bao-lich-nghi-le-quoc-khanh-trung-quoc/
+14:45:08	Error: 	"Not Found" (404) at link baogam.com/baogam-thong-bao-lich-nghi-le-quoc-khanh-trung-quoc/; (from baogam.com/baogam-thong-bao-lich-nghi-le-quoc-khanh-trung-quoc/)
+14:45:45	Error: 	"Not Found" (404) at link baogam.com/category/thong-bao-bao-gam/page/15/; (from baogam.com/category/thong-bao-bao-gam/page/15/)
+14:45:45	Warning: 	Moved Permanently for baogam.com/?p=5502
+14:45:45	Warning: 	File has moved from baogam.com/?p=5502 to http://baogam.com/baogam-thong-bao-dieu-chinh-tang-ty-gia-ngay-23092021/
+14:45:45	Error: 	"Not Found" (404) at link baogam.com/baogam-thong-bao-dieu-chinh-tang-ty-gia-ngay-23092021/; (from baogam.com/baogam-thong-bao-dieu-chinh-tang-ty-gia-ngay-23092021/)
+14:45:45	Warning: 	Moved Permanently for baogam.com/?p=5499
+14:45:45	Warning: 	File has moved from baogam.com/?p=5499 to http://baogam.com/thong-bao-truy-cap-website-baogam-cham-do-cap-quang-gap-su-co/
+14:45:45	Error: 	"Not Found" (404) at link baogam.com/thong-bao-truy-cap-website-baogam-cham-do-cap-quang-gap-su-co/; (from baogam.com/thong-bao-truy-cap-website-baogam-cham-do-cap-quang-gap-su-co/)
+14:45:45	Warning: 	Moved Permanently for baogam.com/?p=5492
+14:45:45	Warning: 	File has moved from baogam.com/?p=5492 to http://baogam.com/chuong-trinh-qua-tang-yeu-thuong-lan-2-1129-phan-qua-danh-tang-khach-hang/
+14:45:45	Error: 	"Not Found" (404) at link baogam.com/chuong-trinh-qua-tang-yeu-thuong-lan-2-1129-phan-qua-danh-tang-khach-hang/; (from baogam.com/chuong-trinh-qua-tang-yeu-thuong-lan-2-1129-phan-qua-danh-tang-khach-hang/)
+14:45:45	Warning: 	Moved Permanently for baogam.com/?p=5485
+14:45:45	Warning: 	File has moved from baogam.com/?p=5485 to http://baogam.com/thong-bao-li%cc%a3ch-nghi%cc%89-le%cc%83-quoc-khanh-02092021/
+14:45:45	Error: 	"Not Found" (404) at link baogam.com/thong-bao-lịch-nghỉ-lẽ-quoc-khanh-02092021/; (from baogam.com/thong-bao-lịch-nghỉ-lẽ-quoc-khanh-02092021/)
+14:45:45	Warning: 	Moved Permanently for baogam.com/?p=5483
+14:45:45	Warning: 	File has moved from baogam.com/?p=5483 to http://baogam.com/tb-mua-hang-tro-lai-va-tam-dung-hoat-dong-tai-kho-sai-gon/
+14:45:45	Error: 	"Not Found" (404) at link baogam.com/tb-mua-hang-tro-lai-va-tam-dung-hoat-dong-tai-kho-sai-gon/; (from baogam.com/tb-mua-hang-tro-lai-va-tam-dung-hoat-dong-tai-kho-sai-gon/)
+14:45:45	Warning: 	Moved Permanently for baogam.com/?p=5478
+14:45:45	Warning: 	File has moved from baogam.com/?p=5478 to http://baogam.com/tb-tam-dung-mua-hang-va-dung-chinh-sach-cam-ket-van-chuyen-hang-hoa-tai-tp-hcm/
+14:45:45	Error: 	"Not Found" (404) at link baogam.com/tb-tam-dung-mua-hang-va-dung-chinh-sach-cam-ket-van-chuyen-hang-hoa-tai-tp-hcm/; (from baogam.com/tb-tam-dung-mua-hang-va-dung-chinh-sach-cam-ket-van-chuyen-hang-hoa-tai-tp-hcm/)
+14:45:45	Warning: 	Moved Permanently for baogam.com/?p=5476
+14:45:45	Warning: 	File has moved from baogam.com/?p=5476 to http://baogam.com/baogam-thong-bao-vv-giao-hang-tai-kho-phan-phoi-sai-gon/
+14:45:45	Error: 	"Not Found" (404) at link baogam.com/baogam-thong-bao-vv-giao-hang-tai-kho-phan-phoi-sai-gon/; (from baogam.com/baogam-thong-bao-vv-giao-hang-tai-kho-phan-phoi-sai-gon/)
+14:45:45	Warning: 	Moved Permanently for baogam.com/?p=5471
+14:45:45	Warning: 	File has moved from baogam.com/?p=5471 to http://baogam.com/chuong-trinh-chung-tay-cung-sai-gon-day-lui-covid/
+14:45:45	Error: 	"Not Found" (404) at link baogam.com/chuong-trinh-chung-tay-cung-sai-gon-day-lui-covid/; (from baogam.com/chuong-trinh-chung-tay-cung-sai-gon-day-lui-covid/)
+14:45:45	Warning: 	Moved Permanently for baogam.com/?p=5465
+14:45:45	Warning: 	File has moved from baogam.com/?p=5465 to http://baogam.com/cung-nhau-vuot-qua-dai-dich-covid-1079-phan-qua-danh-tang-khach-hang-noi-thanh-ha-noi-tp-ho-chi-minh/
+14:45:45	Error: 	"Not Found" (404) at link baogam.com/cung-nhau-vuot-qua-dai-dich-covid-1079-phan-qua-danh-tang-khach-hang-noi-thanh-ha-noi-tp-ho-chi-minh/; (from baogam.com/cung-nhau-vuot-qua-dai-dich-covid-1079-phan-qua-danh-tang-khach-hang-noi-thanh-ha-noi-tp-ho-chi-minh/)
+14:45:45	Warning: 	Moved Permanently for baogam.com/?p=5463
+14:45:45	Warning: 	File has moved from baogam.com/?p=5463 to http://baogam.com/baogam-thong-bao-dieu-chinh-giam-ty-gia-ngay-29072021/
+14:45:45	Warning: 	Retry after error -2 (Receive Time Out) at link baogam.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fbaogam.com%2Fbaogam-thong-bao-dieu-chinh-giam-ty-gia-ngay-29072021%2F&format=xml (from baogam.com/baogam-thong-bao-dieu-chinh-giam-ty-gia-ngay-29072021/)
+14:45:45	Error: 	"Not Found" (404) at link baogam.com/baogam-thong-bao-dieu-chinh-giam-ty-gia-ngay-29072021/; (from baogam.com/baogam-thong-bao-dieu-chinh-giam-ty-gia-ngay-29072021/)
+14:46:10	Error: 	"Not Found" (404) at link baogam.com/category/thong-bao-bao-gam/page/16/; (from baogam.com/category/thong-bao-bao-gam/page/16/)
+14:46:10	Warning: 	Moved Permanently for baogam.com/?p=5461
+14:46:10	Warning: 	File has moved from baogam.com/?p=5461 to http://baogam.com/thong-bao-kho-phan-phoi-ha-noi-gian-cach-xa-hoi-theo-chi-thi-16/
+14:46:10	Error: 	"Not Found" (404) at link baogam.com/thong-bao-kho-phan-phoi-ha-noi-gian-cach-xa-hoi-theo-chi-thi-16/; (from baogam.com/thong-bao-kho-phan-phoi-ha-noi-gian-cach-xa-hoi-theo-chi-thi-16/)
+14:46:10	Warning: 	Moved Permanently for baogam.com/?p=5457
+14:46:10	Warning: 	File has moved from baogam.com/?p=5457 to http://baogam.com/thong-bao-phong-toa-kho-binh-thanh-tp-hcm/
+14:46:10	Error: 	"Not Found" (404) at link baogam.com/thong-bao-phong-toa-kho-binh-thanh-tp-hcm/; (from baogam.com/thong-bao-phong-toa-kho-binh-thanh-tp-hcm/)
+14:46:10	Warning: 	Moved Permanently for baogam.com/?p=5455
+14:46:10	Warning: 	File has moved from baogam.com/?p=5455 to http://baogam.com/thong-bao-kho-phan-phoi-sai-gon-thuc-hien-siet-chat-gian-cach-xa-hoi/
+14:46:10	Error: 	"Not Found" (404) at link baogam.com/thong-bao-kho-phan-phoi-sai-gon-thuc-hien-siet-chat-gian-cach-xa-hoi/; (from baogam.com/thong-bao-kho-phan-phoi-sai-gon-thuc-hien-siet-chat-gian-cach-xa-hoi/)
+14:46:10	Warning: 	Moved Permanently for baogam.com/?p=5453
+14:46:10	Warning: 	File has moved from baogam.com/?p=5453 to http://baogam.com/thong-bao-kho-phan-phoi-ha-noi-thuc-hien-gian-cach-xa-hoi/
+14:46:10	Error: 	"Not Found" (404) at link baogam.com/thong-bao-kho-phan-phoi-ha-noi-thuc-hien-gian-cach-xa-hoi/; (from baogam.com/thong-bao-kho-phan-phoi-ha-noi-thuc-hien-gian-cach-xa-hoi/)
+14:46:10	Warning: 	Moved Permanently for baogam.com/?p=5448
+14:46:10	Warning: 	File has moved from baogam.com/?p=5448 to http://baogam.com/baogam-thong-bao-dieu-chinh-giam-ty-gia-ngay-14072021/
+14:46:10	Error: 	"Not Found" (404) at link baogam.com/baogam-thong-bao-dieu-chinh-giam-ty-gia-ngay-14072021/; (from baogam.com/baogam-thong-bao-dieu-chinh-giam-ty-gia-ngay-14072021/)
+14:46:10	Warning: 	Moved Permanently for baogam.com/?p=5444
+14:46:10	Warning: 	File has moved from baogam.com/?p=5444 to http://baogam.com/thong-bao-kho-phan-phoi-sai-gon-thuc-hien-gian-cach-xa-hoi/
+14:46:10	Error: 	"Not Found" (404) at link baogam.com/thong-bao-kho-phan-phoi-sai-gon-thuc-hien-gian-cach-xa-hoi/; (from baogam.com/thong-bao-kho-phan-phoi-sai-gon-thuc-hien-gian-cach-xa-hoi/)
+14:46:10	Warning: 	Moved Permanently for baogam.com/?p=5441
+14:46:10	Warning: 	File has moved from baogam.com/?p=5441 to http://baogam.com/thong-bao-vv-khu-kho-loc-dien-tp-hcm-thuc-hien-dan-cach-xa-hoi/
+14:46:10	Error: 	"Not Found" (404) at link baogam.com/thong-bao-vv-khu-kho-loc-dien-tp-hcm-thuc-hien-dan-cach-xa-hoi/; (from baogam.com/thong-bao-vv-khu-kho-loc-dien-tp-hcm-thuc-hien-dan-cach-xa-hoi/)
+14:46:10	Warning: 	Moved Permanently for baogam.com/?p=5436
+14:46:10	Warning: 	File has moved from baogam.com/?p=5436 to http://baogam.com/baogam-thong-bao-dieu-chinh-giam-ty-gia-ngay-17062021/
+14:46:10	Error: 	"Not Found" (404) at link baogam.com/baogam-thong-bao-dieu-chinh-giam-ty-gia-ngay-17062021/; (from baogam.com/baogam-thong-bao-dieu-chinh-giam-ty-gia-ngay-17062021/)
+14:46:10	Warning: 	Moved Permanently for baogam.com/?p=5433
+14:46:10	Warning: 	File has moved from baogam.com/?p=5433 to http://baogam.com/baogam-thong-bao-dieu-chinh-tang-ty-gia-ngay-30052021/
+14:46:10	Error: 	"Not Found" (404) at link baogam.com/baogam-thong-bao-dieu-chinh-tang-ty-gia-ngay-30052021/; (from baogam.com/baogam-thong-bao-dieu-chinh-tang-ty-gia-ngay-30052021/)
+14:46:10	Warning: 	Moved Permanently for baogam.com/?p=5429
+14:46:10	Warning: 	File has moved from baogam.com/?p=5429 to http://baogam.com/baogam-thong-bao-dieu-chinh-tang-ty-gia-ngay-25052021/
+14:46:10	Error: 	"Not Found" (404) at link baogam.com/baogam-thong-bao-dieu-chinh-tang-ty-gia-ngay-25052021/; (from baogam.com/baogam-thong-bao-dieu-chinh-tang-ty-gia-ngay-25052021/)
+14:46:40	Error: 	"Not Found" (404) at link baogam.com/category/thong-bao-bao-gam/page/17/; (from baogam.com/category/thong-bao-bao-gam/page/17/)
+14:46:40	Warning: 	Moved Permanently for baogam.com/?p=5427
+14:46:40	Warning: 	File has moved from baogam.com/?p=5427 to http://baogam.com/baogam-thong-bao-dieu-chinh-tang-ty-gia-ngay-21052021/
+14:46:40	Error: 	"Not Found" (404) at link baogam.com/baogam-thong-bao-dieu-chinh-tang-ty-gia-ngay-21052021/; (from baogam.com/baogam-thong-bao-dieu-chinh-tang-ty-gia-ngay-21052021/)
+14:46:40	Warning: 	Moved Permanently for baogam.com/?p=5411
+14:46:40	Warning: 	File has moved from baogam.com/?p=5411 to http://baogam.com/thong-bao-thay-doi-so-tai-khoan-ngan-hang-giao-dich-tren-baogam-com/
+14:46:40	Error: 	"Not Found" (404) at link baogam.com/thong-bao-thay-doi-so-tai-khoan-ngan-hang-giao-dich-tren-baogam-com/; (from baogam.com/thong-bao-thay-doi-so-tai-khoan-ngan-hang-giao-dich-tren-baogam-com/)
+14:46:40	Warning: 	Moved Permanently for baogam.com/?p=5409
+14:46:40	Warning: 	File has moved from baogam.com/?p=5409 to http://baogam.com/thong-bao-tam-dung-ho-tro-chat-truc-tuyen-buoi-toi-tu-thu-6-den-chu-nhat/
+14:46:40	Error: 	"Not Found" (404) at link baogam.com/thong-bao-tam-dung-ho-tro-chat-truc-tuyen-buoi-toi-tu-thu-6-den-chu-nhat/; (from baogam.com/thong-bao-tam-dung-ho-tro-chat-truc-tuyen-buoi-toi-tu-thu-6-den-chu-nhat/)
+14:46:40	Warning: 	Moved Permanently for baogam.com/?p=5402
+14:46:40	Warning: 	File has moved from baogam.com/?p=5402 to http://baogam.com/thong-bao-dieu-chinh-thoi-gian-luu-kho-hang-hoa-tai-kho-phan-phoi-viet-nam/
+14:46:40	Error: 	"Not Found" (404) at link baogam.com/thong-bao-dieu-chinh-thoi-gian-luu-kho-hang-hoa-tai-kho-phan-phoi-viet-nam/; (from baogam.com/thong-bao-dieu-chinh-thoi-gian-luu-kho-hang-hoa-tai-kho-phan-phoi-viet-nam/)
+14:46:40	Warning: 	Moved Permanently for baogam.com/?p=5400
+14:46:40	Warning: 	File has moved from baogam.com/?p=5400 to http://baogam.com/baogam-thong-bao-dieu-chinh-giam-ty-gia-ngay-12052021/
+14:46:40	Error: 	"Not Found" (404) at link baogam.com/baogam-thong-bao-dieu-chinh-giam-ty-gia-ngay-12052021/; (from baogam.com/baogam-thong-bao-dieu-chinh-giam-ty-gia-ngay-12052021/)
+14:46:40	Warning: 	Moved Permanently for baogam.com/?p=5390
+14:46:40	Warning: 	File has moved from baogam.com/?p=5390 to http://baogam.com/thong-bao-dieu-chinh-muc-trong-luong-va-dieu-chinh-giam-phi-vcqt-ve-viet-nam/
+14:46:40	Error: 	"Not Found" (404) at link baogam.com/thong-bao-dieu-chinh-muc-trong-luong-va-dieu-chinh-giam-phi-vcqt-ve-viet-nam/; (from baogam.com/thong-bao-dieu-chinh-muc-trong-luong-va-dieu-chinh-giam-phi-vcqt-ve-viet-nam/)
+14:46:40	Warning: 	Moved Permanently for baogam.com/?p=5387
+14:46:40	Warning: 	File has moved from baogam.com/?p=5387 to http://baogam.com/baogam-thong-bao-dieu-chinh-tang-ty-gia-ngay-21042021/
+14:46:40	Error: 	"Not Found" (404) at link baogam.com/baogam-thong-bao-dieu-chinh-tang-ty-gia-ngay-21042021/; (from baogam.com/baogam-thong-bao-dieu-chinh-tang-ty-gia-ngay-21042021/)
+14:46:40	Warning: 	Moved Permanently for baogam.com/?p=5373
+14:46:40	Warning: 	File has moved from baogam.com/?p=5373 to http://baogam.com/baogam-thong-bao-dieu-chinh-giam-ty-gia-ngay-08042021/
+14:46:40	Error: 	"Not Found" (404) at link baogam.com/baogam-thong-bao-dieu-chinh-giam-ty-gia-ngay-08042021/; (from baogam.com/baogam-thong-bao-dieu-chinh-giam-ty-gia-ngay-08042021/)
+14:47:16	Error: 	"Not Found" (404) at link baogam.com/category/thong-bao-bao-gam/page/18/; (from baogam.com/category/thong-bao-bao-gam/page/18/)
+14:47:16	Warning: 	Moved Permanently for baogam.com/?p=5366
+14:47:16	Warning: 	File has moved from baogam.com/?p=5366 to http://baogam.com/thong-bao-dieu-chinh-giam-phi-van-chuyen-quoc-te-ve-viet-nam-3/
+14:47:16	Error: 	"Not Found" (404) at link baogam.com/thong-bao-dieu-chinh-giam-phi-van-chuyen-quoc-te-ve-viet-nam-3/; (from baogam.com/thong-bao-dieu-chinh-giam-phi-van-chuyen-quoc-te-ve-viet-nam-3/)
+14:47:16	Warning: 	Moved Permanently for baogam.com/?p=5362
+14:47:16	Warning: 	File has moved from baogam.com/?p=5362 to http://baogam.com/thong-bao-ve-thoi-gian-phat-hang-cua-nha-cung-cap-trung-quoc/
+14:47:16	Error: 	"Not Found" (404) at link baogam.com/thong-bao-ve-thoi-gian-phat-hang-cua-nha-cung-cap-trung-quoc/; (from baogam.com/thong-bao-ve-thoi-gian-phat-hang-cua-nha-cung-cap-trung-quoc/)
+14:47:16	Warning: 	Moved Permanently for baogam.com/?p=5356
+14:47:16	Warning: 	File has moved from baogam.com/?p=5356 to http://baogam.com/baogam-thong-bao-dieu-chinh-giam-ty-gia-ngay-23022021/
+14:47:16	Error: 	"Not Found" (404) at link baogam.com/baogam-thong-bao-dieu-chinh-giam-ty-gia-ngay-23022021/; (from baogam.com/baogam-thong-bao-dieu-chinh-giam-ty-gia-ngay-23022021/)
+14:47:16	Warning: 	Moved Permanently for baogam.com/?p=5353
+14:47:16	Warning: 	File has moved from baogam.com/?p=5353 to http://baogam.com/thong-bao-thay-doi-lich-lam-viec-cua-kho-phan-phoi-vn-sau-tet-nguyen-dan-2021/
+14:47:16	Error: 	"Not Found" (404) at link baogam.com/thong-bao-thay-doi-lich-lam-viec-cua-kho-phan-phoi-vn-sau-tet-nguyen-dan-2021/; (from baogam.com/thong-bao-thay-doi-lich-lam-viec-cua-kho-phan-phoi-vn-sau-tet-nguyen-dan-2021/)
+14:47:16	Warning: 	Moved Permanently for baogam.com/?p=5350
+14:47:16	Warning: 	File has moved from baogam.com/?p=5350 to http://baogam.com/baogam-thong-bao-thay-doi-lich-nghi-tet-nguyen-dan-2021/
+14:47:16	Error: 	"Not Found" (404) at link baogam.com/baogam-thong-bao-thay-doi-lich-nghi-tet-nguyen-dan-2021/; (from baogam.com/baogam-thong-bao-thay-doi-lich-nghi-tet-nguyen-dan-2021/)
+14:47:16	Warning: 	Moved Permanently for baogam.com/?p=5347
+14:47:16	Warning: 	File has moved from baogam.com/?p=5347 to http://baogam.com/baogam-thong-bao-chuong-trinh-li-xi-nam-moi-phoi-phoi-loc-xuan/
+14:47:16	Error: 	"Not Found" (404) at link baogam.com/baogam-thong-bao-chuong-trinh-li-xi-nam-moi-phoi-phoi-loc-xuan/; (from baogam.com/baogam-thong-bao-chuong-trinh-li-xi-nam-moi-phoi-phoi-loc-xuan/)
+14:47:16	Warning: 	Moved Permanently for baogam.com/?p=5345
+14:47:16	Warning: 	File has moved from baogam.com/?p=5345 to http://baogam.com/tb-tam-ngung-dich-vu-tu-15h30-ngay-29012021/
+14:47:16	Error: 	"Not Found" (404) at link baogam.com/tb-tam-ngung-dich-vu-tu-15h30-ngay-29012021/; (from baogam.com/tb-tam-ngung-dich-vu-tu-15h30-ngay-29012021/)
+14:47:16	Warning: 	Moved Permanently for baogam.com/?p=5340
+14:47:16	Warning: 	File has moved from baogam.com/?p=5340 to http://baogam.com/thong-bao-lich-nghi-va-lich-lam-viec-lai-sau-tet-nguyen-dan-2021/
+14:47:16	Error: 	"Not Found" (404) at link baogam.com/thong-bao-lich-nghi-va-lich-lam-viec-lai-sau-tet-nguyen-dan-2021/; (from baogam.com/thong-bao-lich-nghi-va-lich-lam-viec-lai-sau-tet-nguyen-dan-2021/)
+14:47:16	Warning: 	Moved Permanently for baogam.com/?p=5338
+14:47:16	Warning: 	File has moved from baogam.com/?p=5338 to http://baogam.com/baogam-thong-bao-cham-thong-quan-tq-vn/
+14:47:16	Error: 	"Not Found" (404) at link baogam.com/baogam-thong-bao-cham-thong-quan-tq-vn/; (from baogam.com/baogam-thong-bao-cham-thong-quan-tq-vn/)
+14:47:16	Warning: 	Moved Permanently for baogam.com/?p=5335
+14:47:16	Warning: 	File has moved from baogam.com/?p=5335 to http://baogam.com/thong-bao-lich-dung-nhan-don-hang-truoc-tet-tan-suu-2021-som-hon-du-kien/
+14:47:16	Error: 	"Not Found" (404) at link baogam.com/thong-bao-lich-dung-nhan-don-hang-truoc-tet-tan-suu-2021-som-hon-du-kien/; (from baogam.com/thong-bao-lich-dung-nhan-don-hang-truoc-tet-tan-suu-2021-som-hon-du-kien/)
+14:47:51	Error: 	"Not Found" (404) at link baogam.com/category/thong-bao-bao-gam/page/19/; (from baogam.com/category/thong-bao-bao-gam/page/19/)
+14:47:51	Warning: 	Moved Permanently for baogam.com/?p=5329
+14:47:51	Warning: 	File has moved from baogam.com/?p=5329 to http://baogam.com/thong-bao-lich-dung-nhan-don-hang-truoc-dip-tet-tan-suu-2021/
+14:47:51	Error: 	"Not Found" (404) at link baogam.com/thong-bao-lich-dung-nhan-don-hang-truoc-dip-tet-tan-suu-2021/; (from baogam.com/thong-bao-lich-dung-nhan-don-hang-truoc-dip-tet-tan-suu-2021/)
+14:47:51	Warning: 	Moved Permanently for baogam.com/?p=5327
+14:47:51	Warning: 	File has moved from baogam.com/?p=5327 to http://baogam.com/baogam-thong-bao-dieu-chinh-tang-ty-gia-ngay-26122020/
+14:47:51	Error: 	"Not Found" (404) at link baogam.com/baogam-thong-bao-dieu-chinh-tang-ty-gia-ngay-26122020/; (from baogam.com/baogam-thong-bao-dieu-chinh-tang-ty-gia-ngay-26122020/)
+14:47:51	Warning: 	Moved Permanently for baogam.com/?p=5325
+14:47:51	Warning: 	File has moved from baogam.com/?p=5325 to http://baogam.com/baogam-thong-bao-lich-nghi-tet-duong-lich-2021/
+14:47:51	Error: 	"Not Found" (404) at link baogam.com/baogam-thong-bao-lich-nghi-tet-duong-lich-2021/; (from baogam.com/baogam-thong-bao-lich-nghi-tet-duong-lich-2021/)
+14:47:51	Warning: 	Moved Permanently for baogam.com/?p=5320
+14:47:51	Warning: 	File has moved from baogam.com/?p=5320 to http://baogam.com/baogam-thong-bao-dieu-chinh-tang-phi-van-chuyen-quoc-te-ve-viet-nam/
+14:47:51	Error: 	"Not Found" (404) at link baogam.com/baogam-thong-bao-dieu-chinh-tang-phi-van-chuyen-quoc-te-ve-viet-nam/; (from baogam.com/baogam-thong-bao-dieu-chinh-tang-phi-van-chuyen-quoc-te-ve-viet-nam/)
+14:47:51	Warning: 	Moved Permanently for baogam.com/?p=5318
+14:47:51	Warning: 	File has moved from baogam.com/?p=5318 to http://baogam.com/baogam-thong-bao-dieu-chinh-tang-ty-gia-ngay-23122020/
+14:47:51	Error: 	"Not Found" (404) at link baogam.com/baogam-thong-bao-dieu-chinh-tang-ty-gia-ngay-23122020/; (from baogam.com/baogam-thong-bao-dieu-chinh-tang-ty-gia-ngay-23122020/)
+14:47:51	Warning: 	Moved Permanently for baogam.com/?p=5305
+14:47:51	Warning: 	File has moved from baogam.com/?p=5305 to http://baogam.com/baogam-thong-bao-dieu-chinh-tang-ty-gia-ngay-12122020/
+14:47:51	Error: 	"Not Found" (404) at link baogam.com/baogam-thong-bao-dieu-chinh-tang-ty-gia-ngay-12122020/; (from baogam.com/baogam-thong-bao-dieu-chinh-tang-ty-gia-ngay-12122020/)
+14:47:51	Warning: 	Moved Permanently for baogam.com/?p=5302
+14:47:51	Warning: 	File has moved from baogam.com/?p=5302 to http://baogam.com/baogam-thong-bao-dieu-chinh-tang-ty-gia-ngay-27112020/
+14:47:51	Error: 	"Not Found" (404) at link baogam.com/baogam-thong-bao-dieu-chinh-tang-ty-gia-ngay-27112020/; (from baogam.com/baogam-thong-bao-dieu-chinh-tang-ty-gia-ngay-27112020/)
+14:47:51	Warning: 	Moved Permanently for baogam.com/?p=5293
+14:47:51	Warning: 	File has moved from baogam.com/?p=5293 to http://baogam.com/bao-gam-thong-bao-dieu-chinh-tang-ty-gia-ngay-24112020/
+14:47:51	Error: 	"Not Found" (404) at link baogam.com/bao-gam-thong-bao-dieu-chinh-tang-ty-gia-ngay-24112020/; (from baogam.com/bao-gam-thong-bao-dieu-chinh-tang-ty-gia-ngay-24112020/)
+14:47:51	Warning: 	Moved Permanently for baogam.com/?p=5291
+14:47:51	Warning: 	File has moved from baogam.com/?p=5291 to http://baogam.com/bao-gam-thong-bao-dieu-chinh-tang-ty-gia-ngay-19112020/
+14:47:51	Error: 	"Not Found" (404) at link baogam.com/bao-gam-thong-bao-dieu-chinh-tang-ty-gia-ngay-19112020/; (from baogam.com/bao-gam-thong-bao-dieu-chinh-tang-ty-gia-ngay-19112020/)
+14:47:51	Warning: 	Moved Permanently for baogam.com/?p=5284
+14:47:51	Warning: 	File has moved from baogam.com/?p=5284 to http://baogam.com/thong-bao-dieu-chinh-giam-phi-van-chuyen-quoc-te-ve-tp-hcm/
+14:47:51	Error: 	"Not Found" (404) at link baogam.com/thong-bao-dieu-chinh-giam-phi-van-chuyen-quoc-te-ve-tp-hcm/; (from baogam.com/thong-bao-dieu-chinh-giam-phi-van-chuyen-quoc-te-ve-tp-hcm/)
+14:48:28	Error: 	"Not Found" (404) at link baogam.com/category/thong-bao-bao-gam/page/20/; (from baogam.com/category/thong-bao-bao-gam/page/20/)
+14:48:28	Warning: 	Moved Permanently for baogam.com/?p=5280
+14:48:28	Warning: 	File has moved from baogam.com/?p=5280 to http://baogam.com/baogam-thong-bao-mo-lai-dich-vu-mua-san-pham-co-thuong-hieu/
+14:48:28	Error: 	"Not Found" (404) at link baogam.com/baogam-thong-bao-mo-lai-dich-vu-mua-san-pham-co-thuong-hieu/; (from baogam.com/baogam-thong-bao-mo-lai-dich-vu-mua-san-pham-co-thuong-hieu/)
+14:48:28	Warning: 	Moved Permanently for baogam.com/?p=5277
+14:48:28	Warning: 	File has moved from baogam.com/?p=5277 to http://baogam.com/baogam-thong-bao-chuong-trinh-ngay-ho%cc%a3i-do%cc%a3c-than-trung-quoc-11112020/
+14:48:28	Error: 	"Not Found" (404) at link baogam.com/baogam-thong-bao-chuong-trinh-ngay-họi-dọc-than-trung-quoc-11112020/; (from baogam.com/baogam-thong-bao-chuong-trinh-ngay-họi-dọc-than-trung-quoc-11112020/)
+14:48:28	Warning: 	Moved Permanently for baogam.com/?p=5272
+14:48:28	Warning: 	File has moved from baogam.com/?p=5272 to http://baogam.com/baogam-thong-bao-ap-dung-tro-lai-chinh-sach-dong-go/
+14:48:28	Error: 	"Not Found" (404) at link baogam.com/baogam-thong-bao-ap-dung-tro-lai-chinh-sach-dong-go/; (from baogam.com/baogam-thong-bao-ap-dung-tro-lai-chinh-sach-dong-go/)
+14:48:28	Warning: 	Moved Permanently for baogam.com/?p=5266
+14:48:28	Warning: 	File has moved from baogam.com/?p=5266 to http://baogam.com/thong-bao-tam-dung-chinh-sach-chuyen-thang/
+14:48:28	Error: 	"Not Found" (404) at link baogam.com/thong-bao-tam-dung-chinh-sach-chuyen-thang/; (from baogam.com/thong-bao-tam-dung-chinh-sach-chuyen-thang/)
+14:48:28	Warning: 	Moved Permanently for baogam.com/?p=5264
+14:48:28	Warning: 	File has moved from baogam.com/?p=5264 to http://baogam.com/baogam-thong-bao-dieu-chinh-tang-ty-gia-ngay-21102020/
+14:48:28	Error: 	"Not Found" (404) at link baogam.com/baogam-thong-bao-dieu-chinh-tang-ty-gia-ngay-21102020/; (from baogam.com/baogam-thong-bao-dieu-chinh-tang-ty-gia-ngay-21102020/)
+14:48:28	Warning: 	Moved Permanently for baogam.com/?p=5261
+14:48:28	Warning: 	File has moved from baogam.com/?p=5261 to http://baogam.com/thong-bao-dieu-chinh-phi-van-chuyen-quoc-te-ve-tp-hcm/
+14:48:28	Error: 	"Not Found" (404) at link baogam.com/thong-bao-dieu-chinh-phi-van-chuyen-quoc-te-ve-tp-hcm/; (from baogam.com/thong-bao-dieu-chinh-phi-van-chuyen-quoc-te-ve-tp-hcm/)
+14:48:28	Warning: 	Moved Permanently for baogam.com/?p=5257
+14:48:28	Warning: 	File has moved from baogam.com/?p=5257 to http://baogam.com/baogam-thong-bao-dieu-chinh-tang-ty-gia-ngay-16102020/
+14:48:28	Error: 	"Not Found" (404) at link baogam.com/baogam-thong-bao-dieu-chinh-tang-ty-gia-ngay-16102020/; (from baogam.com/baogam-thong-bao-dieu-chinh-tang-ty-gia-ngay-16102020/)
+14:48:29	Warning: 	Moved Permanently for baogam.com/?p=5254
+14:48:29	Warning: 	File has moved from baogam.com/?p=5254 to http://baogam.com/bao-gam-thong-bao-dieu-chinh-tang-ty-gia-ngay-15102020/
+14:48:29	Error: 	"Not Found" (404) at link baogam.com/bao-gam-thong-bao-dieu-chinh-tang-ty-gia-ngay-15102020/; (from baogam.com/bao-gam-thong-bao-dieu-chinh-tang-ty-gia-ngay-15102020/)
+14:48:29	Warning: 	Moved Permanently for baogam.com/?p=5252
+14:48:29	Warning: 	File has moved from baogam.com/?p=5252 to http://baogam.com/thong-bao-dieu-chinh-giam-phi-van-chuyen-quoc-te-ve-viet-nam-2/
+14:48:29	Error: 	"Not Found" (404) at link baogam.com/thong-bao-dieu-chinh-giam-phi-van-chuyen-quoc-te-ve-viet-nam-2/; (from baogam.com/thong-bao-dieu-chinh-giam-phi-van-chuyen-quoc-te-ve-viet-nam-2/)
+14:48:29	Warning: 	Moved Permanently for baogam.com/?p=5246
+14:48:29	Warning: 	File has moved from baogam.com/?p=5246 to http://baogam.com/chuong-trinh-qua-tang-doanh-nhan-ngay-13102020/
+14:48:29	Error: 	"Not Found" (404) at link baogam.com/chuong-trinh-qua-tang-doanh-nhan-ngay-13102020/; (from baogam.com/chuong-trinh-qua-tang-doanh-nhan-ngay-13102020/)
+14:49:22	Error: 	"Not Found" (404) at link baogam.com/category/thong-bao-bao-gam/page/21/; (from baogam.com/category/thong-bao-bao-gam/page/21/)
+14:49:25	Warning: 	Moved Permanently for baogam.com/?p=3221
+14:49:25	Warning: 	File has moved from baogam.com/?p=3221 to http://baogam.com/thong-bao-nang-cap-server-he-thong-ngay-08052017/
+14:49:25	Error: 	"Not Found" (404) at link baogam.com/thong-bao-nang-cap-server-he-thong-ngay-08052017/; (from baogam.com/thong-bao-nang-cap-server-he-thong-ngay-08052017/)
+14:49:25	Warning: 	Moved Permanently for baogam.com/?p=3206
+14:49:25	Warning: 	File has moved from baogam.com/?p=3206 to http://baogam.com/baogam-thong-bao-lich-nghi-le-304_0105/
+14:49:25	Error: 	"Not Found" (404) at link baogam.com/baogam-thong-bao-lich-nghi-le-304_0105/; (from baogam.com/baogam-thong-bao-lich-nghi-le-304_0105/)
+14:49:25	Warning: 	Moved Permanently for baogam.com/?p=3117
+14:49:25	Warning: 	File has moved from baogam.com/?p=3117 to http://baogam.com/tb-dieu-chinh-cs-cptk-chuyenthang-qd-trong-luong/
+14:49:25	Error: 	"Not Found" (404) at link baogam.com/tb-dieu-chinh-cs-cptk-chuyenthang-qd-trong-luong/; (from baogam.com/tb-dieu-chinh-cs-cptk-chuyenthang-qd-trong-luong/)
+14:49:25	Warning: 	Moved Permanently for baogam.com/?p=357
+14:49:25	Warning: 	File has moved from baogam.com/?p=357 to http://baogam.com/pvc-thuong/
+14:49:25	Error: 	"Not Found" (404) at link baogam.com/pvc-thuong/; (from baogam.com/pvc-thuong/)
+14:49:39	Error: 	"Not Found" (404) at link baogam.com/category/thong-bao-bao-gam/page/26/; (from baogam.com/category/thong-bao-bao-gam/page/26/)
+14:49:51	Error: 	"Not Found" (404) at link baogam.com/category/thong-bao-bao-gam/page/22/; (from baogam.com/category/thong-bao-bao-gam/page/22/)
+14:49:59	Error: 	"Not Found" (404) at link baogam.com/category/thong-bao-bao-gam/page/23/; (from baogam.com/category/thong-bao-bao-gam/page/23/)
+14:50:30	Error: 	"Not Found" (404) at link baogam.com/category/thong-bao-bao-gam/page/24/; (from baogam.com/category/thong-bao-bao-gam/page/24/)
+14:50:57	Error: 	"Not Found" (404) at link baogam.com/category/thong-bao-bao-gam/page/25/; (from baogam.com/category/thong-bao-bao-gam/page/25/)
+14:50:57	Warning: 	Retry after error -4 (Connect Error) at link junk.metafilter.com/xfn.gif (from gmpg.org/xfn/more)
+14:50:57	Error: 	"" (500) after 2 retries at link order.baogam.com/i/assets/images/bg-input.png (from order.baogam.com/i/assets/css/main.css?v=220405)
+14:50:57	Error: 	"" (500) after 2 retries at link order.baogam.com/i/assets/images/bg-input-focus.png (from order.baogam.com/i/assets/css/main.css?v=220405)
+14:50:57	Error: 	"" (500) after 2 retries at link order.baogam.com/i/assets/fonts/glyphicons-halflings-regular.eot (from order.baogam.com/i/assets/css/main.css?v=220405)
+14:50:57	Error: 	"" (500) after 2 retries at link order.baogam.com/i/assets/fonts/glyphicons-halflings-regular.eot? (from order.baogam.com/i/assets/css/main.css?v=220405)
+14:50:57	Error: 	"Internal Server Error" (500) after 2 retries at link order.baogam.com/i/assets/fonts/glyphicons-halflings-regular.woff2 (from order.baogam.com/i/assets/css/main.css?v=220405)
+14:50:57	Error: 	"" (500) after 2 retries at link order.baogam.com/i/assets/fonts/glyphicons-halflings-regular.woff (from order.baogam.com/i/assets/css/main.css?v=220405)
+14:50:57	Error: 	"" (500) after 2 retries at link order.baogam.com/i/assets/fonts/glyphicons-halflings-regular.ttf (from order.baogam.com/i/assets/css/main.css?v=220405)
+14:50:57	Error: 	"" (500) after 2 retries at link order.baogam.com/i/assets/fonts/glyphicons-halflings-regular.svg (from order.baogam.com/i/assets/css/main.css?v=220405)
+14:50:57	Error: 	"Internal Server Error" (500) after 2 retries at link order.baogam.com/i/assets/font/weathericons-regular-webfont.eot (from order.baogam.com/i/assets/css/main.css?v=220405)
+14:50:57	Error: 	"" (500) after 2 retries at link order.baogam.com/i/assets/font/weathericons-regular-webfont.eot? (from order.baogam.com/i/assets/css/main.css?v=220405)
+14:50:57	Error: 	"" (500) after 2 retries at link order.baogam.com/i/assets/font/weathericons-regular-webfont.woff (from order.baogam.com/i/assets/css/main.css?v=220405)
+14:50:57	Error: 	"" (500) after 2 retries at link order.baogam.com/i/assets/font/weathericons-regular-webfont.ttf (from order.baogam.com/i/assets/css/main.css?v=220405)
+14:50:57	Error: 	"" (500) after 2 retries at link order.baogam.com/i/assets/font/weathericons-regular-webfont.svg (from order.baogam.com/i/assets/css/main.css?v=220405)
+14:50:57	Error: 	"" (500) after 2 retries at link order.baogam.com/i/assets/css/images/metroIcons_light.jpg (from order.baogam.com/i/assets/css/main.css?v=220405)
+14:50:57	Error: 	"" (500) after 2 retries at link order.baogam.com/i/assets/css/images/metroIcons.jpg (from order.baogam.com/i/assets/css/main.css?v=220405)
+14:50:57	Error: 	"" (500) after 2 retries at link order.baogam.com/i/assets/images/profile-cover.png (from order.baogam.com/i/assets/css/main.css?v=220405)
+14:50:57	Error: 	"" (500) after 2 retries at link order.baogam.com/i/assets/images/coming-soon.jpg (from order.baogam.com/i/assets/css/main.css?v=220405)
+14:50:57	Warning: 	Moved Permanently for baogam.com/?p=5234
+14:50:57	Warning: 	File has moved from baogam.com/?p=5234 to http://baogam.com/bao-gam-thong-bao-dieu-chinh-tang-ty-gia-ngay-24092020/
+14:50:57	Error: 	"Not Found" (404) at link baogam.com/bao-gam-thong-bao-dieu-chinh-tang-ty-gia-ngay-24092020/; (from baogam.com/bao-gam-thong-bao-dieu-chinh-tang-ty-gia-ngay-24092020/)
+14:50:57	Warning: 	Moved Permanently for baogam.com/?p=3317
+14:50:57	Warning: 	File has moved from baogam.com/?p=3317 to http://baogam.com/thong-bao-cham-thong-quan-cuoi-thang-7-2017/
+14:50:57	Error: 	"Not Found" (404) at link baogam.com/thong-bao-cham-thong-quan-cuoi-thang-7-2017/; (from baogam.com/thong-bao-cham-thong-quan-cuoi-thang-7-2017/)
+14:51:18	Warning: 	Moved Permanently for baogam.com/?p=3347
+14:51:18	Warning: 	File has moved from baogam.com/?p=3347 to http://baogam.com/thong-bao-nghi-le-ngay-292017/
+14:51:18	Error: 	"Not Found" (404) at link baogam.com/thong-bao-nghi-le-ngay-292017/; (from baogam.com/thong-bao-nghi-le-ngay-292017/)
+14:51:18	Warning: 	Moved Permanently for baogam.com/?p=5130
+14:51:18	Warning: 	File has moved from baogam.com/?p=5130 to http://baogam.com/thong-bao-cham-thong-quan-thang-052020/
+14:51:18	Error: 	"Not Found" (404) at link baogam.com/thong-bao-cham-thong-quan-thang-052020/; (from baogam.com/thong-bao-cham-thong-quan-thang-052020/)
+14:51:18	Warning: 	Moved Permanently for baogam.com/?p=5161
+14:51:18	Warning: 	File has moved from baogam.com/?p=5161 to http://baogam.com/thong-bao-ta%cc%a3m-ngung-di%cc%a3ch-vu%cc%a3-trong-ngay-28062020/
+14:51:18	Error: 	"Not Found" (404) at link baogam.com/thong-bao-tạm-ngung-dịch-vụ-trong-ngay-28062020/; (from baogam.com/thong-bao-tạm-ngung-dịch-vụ-trong-ngay-28062020/)
+14:51:18	Warning: 	Moved Permanently for baogam.com/?p=4915
+14:51:18	Warning: 	File has moved from baogam.com/?p=4915 to http://baogam.com/luu-y-ve-thoi-gian-phat-hang-cua-nha-cung-cap-3/
+14:51:18	Error: 	"Not Found" (404) at link baogam.com/luu-y-ve-thoi-gian-phat-hang-cua-nha-cung-cap-3/; (from baogam.com/luu-y-ve-thoi-gian-phat-hang-cua-nha-cung-cap-3/)
+14:51:18	Warning: 	Moved Permanently for baogam.com/?p=4942
+14:51:18	Warning: 	File has moved from baogam.com/?p=4942 to http://baogam.com/tb-chuong-trinh-khuyen-mai-le-hoi-doc-than-1111/
+14:51:18	Error: 	"Not Found" (404) at link baogam.com/tb-chuong-trinh-khuyen-mai-le-hoi-doc-than-1111/; (from baogam.com/tb-chuong-trinh-khuyen-mai-le-hoi-doc-than-1111/)
+14:51:18	Warning: 	Moved Permanently for baogam.com/?p=4244
+14:51:18	Warning: 	File has moved from baogam.com/?p=4244 to http://baogam.com/thong-bao-dieu-chinh-giam-ty-gia-dong-ndt-ngay-24072018/
+14:51:18	Error: 	"Not Found" (404) at link baogam.com/thong-bao-dieu-chinh-giam-ty-gia-dong-ndt-ngay-24072018/; (from baogam.com/thong-bao-dieu-chinh-giam-ty-gia-dong-ndt-ngay-24072018/)
+14:51:18	Warning: 	Moved Permanently for baogam.com/?p=4276
+14:51:18	Warning: 	File has moved from baogam.com/?p=4276 to http://baogam.com/thong-bao-link-cong-cu-dat-hang-baogam-dang-bi-loi/
+14:51:18	Error: 	"Not Found" (404) at link baogam.com/thong-bao-link-cong-cu-dat-hang-baogam-dang-bi-loi/; (from baogam.com/thong-bao-link-cong-cu-dat-hang-baogam-dang-bi-loi/)
+14:51:18	Warning: 	Moved Permanently for baogam.com/?p=4093
+14:51:18	Warning: 	File has moved from baogam.com/?p=4093 to http://baogam.com/thong-bao-lich-nghi-le-304-0105/
+14:51:18	Error: 	"Not Found" (404) at link baogam.com/thong-bao-lich-nghi-le-304-0105/; (from baogam.com/thong-bao-lich-nghi-le-304-0105/)
+14:51:18	Warning: 	Moved Permanently for baogam.com/?p=4144
+14:51:18	Warning: 	File has moved from baogam.com/?p=4144 to http://baogam.com/tb-chuong-trinh-uu-dai-dac-biet-nhan-mua-world-cup-2018/
+14:51:18	Error: 	"Not Found" (404) at link baogam.com/tb-chuong-trinh-uu-dai-dac-biet-nhan-mua-world-cup-2018/; (from baogam.com/tb-chuong-trinh-uu-dai-dac-biet-nhan-mua-world-cup-2018/)
+14:51:18	Warning: 	Moved Permanently for baogam.com/?p=4063
+14:51:18	Warning: 	File has moved from baogam.com/?p=4063 to http://baogam.com/luu-y-ve-thoi-gian-phat-hang-cua-nha-cung-cap/
+14:51:18	Error: 	"Not Found" (404) at link baogam.com/luu-y-ve-thoi-gian-phat-hang-cua-nha-cung-cap/; (from baogam.com/luu-y-ve-thoi-gian-phat-hang-cua-nha-cung-cap/)
+14:51:18	Warning: 	Moved Permanently for baogam.com/?p=4091
+14:51:18	Warning: 	File has moved from baogam.com/?p=4091 to http://baogam.com/thong-bao-dung-nhan-mua-va-van-chuyen-cac-san-pham-la-may-tinh-cu/
+14:51:18	Error: 	"Not Found" (404) at link baogam.com/thong-bao-dung-nhan-mua-va-van-chuyen-cac-san-pham-la-may-tinh-cu/; (from baogam.com/thong-bao-dung-nhan-mua-va-van-chuyen-cac-san-pham-la-may-tinh-cu/)
+14:51:19	Warning: 	Moved Permanently for baogam.com/?p=5232
+14:51:19	Warning: 	File has moved from baogam.com/?p=5232 to http://baogam.com/bao-gam-thong-bao-lich-nghi-le-quoc-khanh-trung-quoc/
+14:51:19	Error: 	"Not Found" (404) at link baogam.com/bao-gam-thong-bao-lich-nghi-le-quoc-khanh-trung-quoc/; (from baogam.com/bao-gam-thong-bao-lich-nghi-le-quoc-khanh-trung-quoc/)
+14:51:19	Warning: 	Moved Permanently for baogam.com/?p=5230
+14:51:19	Warning: 	File has moved from baogam.com/?p=5230 to http://baogam.com/thong-bao-dieu-chinh-giam-phi-van-chuyen-quoc-te-ve-viet-nam/
+14:51:19	Error: 	"Not Found" (404) at link baogam.com/thong-bao-dieu-chinh-giam-phi-van-chuyen-quoc-te-ve-viet-nam/; (from baogam.com/thong-bao-dieu-chinh-giam-phi-van-chuyen-quoc-te-ve-viet-nam/)
+14:51:19	Warning: 	Moved Permanently for baogam.com/?p=5220
+14:51:19	Warning: 	File has moved from baogam.com/?p=5220 to http://baogam.com/tb-tam-ngung-giao-dich-tai-kho-sang-ngay-13-09-2020/
+14:51:19	Error: 	"Not Found" (404) at link baogam.com/tb-tam-ngung-giao-dich-tai-kho-sang-ngay-13-09-2020/; (from baogam.com/tb-tam-ngung-giao-dich-tai-kho-sang-ngay-13-09-2020/)
+14:51:19	Warning: 	Moved Permanently for baogam.com/?p=5215
+14:51:19	Warning: 	File has moved from baogam.com/?p=5215 to http://baogam.com/tb-dieu-chinh-tang-pvc-ve-ha-noi-ngay-05092020/
+14:51:19	Error: 	"Not Found" (404) at link baogam.com/tb-dieu-chinh-tang-pvc-ve-ha-noi-ngay-05092020/; (from baogam.com/tb-dieu-chinh-tang-pvc-ve-ha-noi-ngay-05092020/)
+14:51:19	Warning: 	Moved Permanently for baogam.com/?p=5210
+14:51:19	Warning: 	File has moved from baogam.com/?p=5210 to http://baogam.com/tb-dieu-chinh-tang-ty-gia-dong-ndt-ngay-06092020/
+14:51:19	Error: 	"Not Found" (404) at link baogam.com/tb-dieu-chinh-tang-ty-gia-dong-ndt-ngay-06092020/; (from baogam.com/tb-dieu-chinh-tang-ty-gia-dong-ndt-ngay-06092020/)
+14:51:19	Warning: 	Moved Permanently for baogam.com/?p=5206
+14:51:19	Warning: 	File has moved from baogam.com/?p=5206 to http://baogam.com/thong-bao-ve-viec-mua-hang-dieu-chinh-pvc/
+14:51:19	Error: 	"Not Found" (404) at link baogam.com/thong-bao-ve-viec-mua-hang-dieu-chinh-pvc/; (from baogam.com/thong-bao-ve-viec-mua-hang-dieu-chinh-pvc/)
+14:51:19	Warning: 	Moved Permanently for baogam.com/?p=5199
+14:51:19	Warning: 	File has moved from baogam.com/?p=5199 to http://baogam.com/thong-bao-nghi-le-quoc-khanh-02092020/
+14:51:19	Error: 	"Not Found" (404) at link baogam.com/thong-bao-nghi-le-quoc-khanh-02092020/; (from baogam.com/thong-bao-nghi-le-quoc-khanh-02092020/)
+14:51:19	Warning: 	Moved Permanently for baogam.com/?p=5194
+14:51:19	Warning: 	File has moved from baogam.com/?p=5194 to http://baogam.com/tb-dieu-chinh-tang-ty-gia-dong-ndt-ngay-27082020/
+14:51:19	Error: 	"Not Found" (404) at link baogam.com/tb-dieu-chinh-tang-ty-gia-dong-ndt-ngay-27082020/; (from baogam.com/tb-dieu-chinh-tang-ty-gia-dong-ndt-ngay-27082020/)
+14:51:19	Warning: 	Moved Permanently for baogam.com/?p=5192
+14:51:19	Warning: 	File has moved from baogam.com/?p=5192 to http://baogam.com/thong-bao-cham-thong-quan-2/
+14:51:19	Error: 	"Not Found" (404) at link baogam.com/thong-bao-cham-thong-quan-2/; (from baogam.com/thong-bao-cham-thong-quan-2/)
+14:51:19	Warning: 	Moved Permanently for baogam.com/?p=5190
+14:51:19	Warning: 	File has moved from baogam.com/?p=5190 to http://baogam.com/tb-dieu-chinh-tang-ty-gia-dong-ndt-ngay-21082020/
+14:51:19	Error: 	"Not Found" (404) at link baogam.com/tb-dieu-chinh-tang-ty-gia-dong-ndt-ngay-21082020/; (from baogam.com/tb-dieu-chinh-tang-ty-gia-dong-ndt-ngay-21082020/)
+14:51:19	Warning: 	Moved Permanently for baogam.com/?p=5184
+14:51:19	Warning: 	File has moved from baogam.com/?p=5184 to http://baogam.com/thong-bao-dieu-chinh-tang-phi-van-chuyen-quoc-te-3/
+14:51:19	Error: 	"Not Found" (404) at link baogam.com/thong-bao-dieu-chinh-tang-phi-van-chuyen-quoc-te-3/; (from baogam.com/thong-bao-dieu-chinh-tang-phi-van-chuyen-quoc-te-3/)
+14:51:19	Warning: 	Moved Permanently for baogam.com/?p=5177
+14:51:19	Warning: 	File has moved from baogam.com/?p=5177 to http://baogam.com/thong-bao-khan-ve-viec-mua-va-van-chuyen-hang-hoa/
+14:51:19	Error: 	"Not Found" (404) at link baogam.com/thong-bao-khan-ve-viec-mua-va-van-chuyen-hang-hoa/; (from baogam.com/thong-bao-khan-ve-viec-mua-va-van-chuyen-hang-hoa/)
+14:51:19	Warning: 	Moved Permanently for baogam.com/?p=5173
+14:51:19	Warning: 	File has moved from baogam.com/?p=5173 to http://baogam.com/thong-bao-ve-viec-ngung-nhan-mua-va-van-chuyen-hang-fake/
+14:51:19	Error: 	"Not Found" (404) at link baogam.com/thong-bao-ve-viec-ngung-nhan-mua-va-van-chuyen-hang-fake/; (from baogam.com/thong-bao-ve-viec-ngung-nhan-mua-va-van-chuyen-hang-fake/)
+14:51:19	Warning: 	Moved Permanently for baogam.com/?p=5171
+14:51:19	Warning: 	File has moved from baogam.com/?p=5171 to http://baogam.com/thong-bao-cham-thong-quan/
+14:51:19	Error: 	"Not Found" (404) at link baogam.com/thong-bao-cham-thong-quan/; (from baogam.com/thong-bao-cham-thong-quan/)
+14:51:19	Warning: 	Moved Permanently for baogam.com/?p=5168
+14:51:19	Warning: 	File has moved from baogam.com/?p=5168 to http://baogam.com/tb-luu-y-ve-viec-quy-doi-trong-luong-tinh-phi/
+14:51:19	Error: 	"Not Found" (404) at link baogam.com/tb-luu-y-ve-viec-quy-doi-trong-luong-tinh-phi/; (from baogam.com/tb-luu-y-ve-viec-quy-doi-trong-luong-tinh-phi/)
+14:51:19	Warning: 	Moved Permanently for baogam.com/?p=5165
+14:51:19	Warning: 	File has moved from baogam.com/?p=5165 to http://baogam.com/tb-dieu-chinh-tang-ty-gia-dong-ndt-ngay-02072020/
+14:51:19	Error: 	"Not Found" (404) at link baogam.com/tb-dieu-chinh-tang-ty-gia-dong-ndt-ngay-02072020/; (from baogam.com/tb-dieu-chinh-tang-ty-gia-dong-ndt-ngay-02072020/)
+14:51:19	Warning: 	Moved Permanently for baogam.com/?p=5127
+14:51:19	Warning: 	File has moved from baogam.com/?p=5127 to http://baogam.com/tb-dieu-chinh-tang-ty-gia-dong-ndt-ngay-10052020/
+14:51:19	Error: 	"Not Found" (404) at link baogam.com/tb-dieu-chinh-tang-ty-gia-dong-ndt-ngay-10052020/; (from baogam.com/tb-dieu-chinh-tang-ty-gia-dong-ndt-ngay-10052020/)
+14:51:19	Warning: 	Moved Permanently for baogam.com/?p=5112
+14:51:19	Warning: 	File has moved from baogam.com/?p=5112 to http://baogam.com/tb-ngung-nhan-mua-may-tinh-cu-tam-ngung-dich-vu-dong-go-cho-kien-hang/
+14:51:19	Error: 	"Not Found" (404) at link baogam.com/tb-ngung-nhan-mua-may-tinh-cu-tam-ngung-dich-vu-dong-go-cho-kien-hang/; (from baogam.com/tb-ngung-nhan-mua-may-tinh-cu-tam-ngung-dich-vu-dong-go-cho-kien-hang/)
+14:51:19	Warning: 	Moved Permanently for baogam.com/?p=5103
+14:51:19	Warning: 	File has moved from baogam.com/?p=5103 to http://baogam.com/thong-bao-lich-nghi-le-304-va-15/
+14:51:19	Error: 	"Not Found" (404) at link baogam.com/thong-bao-lich-nghi-le-304-va-15/; (from baogam.com/thong-bao-lich-nghi-le-304-va-15/)
+14:51:19	Warning: 	Moved Permanently for baogam.com/?p=5100
+14:51:19	Warning: 	File has moved from baogam.com/?p=5100 to http://baogam.com/tb-dieu-chinh-giam-ty-gia-dong-ndt-ngay-06042020/
+14:51:19	Error: 	"Not Found" (404) at link baogam.com/tb-dieu-chinh-giam-ty-gia-dong-ndt-ngay-06042020/; (from baogam.com/tb-dieu-chinh-giam-ty-gia-dong-ndt-ngay-06042020/)
+14:51:19	Warning: 	Moved Permanently for baogam.com/?p=5095
+14:51:19	Warning: 	File has moved from baogam.com/?p=5095 to http://baogam.com/thong-bao-lich-lam-viec-ngay-gio-to/
+14:51:19	Error: 	"Not Found" (404) at link baogam.com/thong-bao-lich-lam-viec-ngay-gio-to/; (from baogam.com/thong-bao-lich-lam-viec-ngay-gio-to/)
+14:51:19	Warning: 	Moved Permanently for baogam.com/?p=5091
+14:51:19	Warning: 	File has moved from baogam.com/?p=5091 to http://baogam.com/thong-bao-cham-thong-quan-thang-032020/
+14:51:19	Error: 	"Not Found" (404) at link baogam.com/thong-bao-cham-thong-quan-thang-032020/; (from baogam.com/thong-bao-cham-thong-quan-thang-032020/)
+14:51:19	Warning: 	Moved Permanently for baogam.com/?p=5089
+14:51:19	Warning: 	File has moved from baogam.com/?p=5089 to http://baogam.com/tb-dieu-chinh-tang-ty-gia-dong-ndt-ngay-20032020/
+14:51:19	Error: 	"Not Found" (404) at link baogam.com/tb-dieu-chinh-tang-ty-gia-dong-ndt-ngay-20032020/; (from baogam.com/tb-dieu-chinh-tang-ty-gia-dong-ndt-ngay-20032020/)
+14:51:19	Warning: 	Moved Permanently for baogam.com/?p=5085
+14:51:19	Warning: 	File has moved from baogam.com/?p=5085 to http://baogam.com/thong-bao-vv-cung-baogam-phong-ngua-dich-benh-viem-phoi-cap-corona/
+14:51:19	Error: 	"Not Found" (404) at link baogam.com/thong-bao-vv-cung-baogam-phong-ngua-dich-benh-viem-phoi-cap-corona/; (from baogam.com/thong-bao-vv-cung-baogam-phong-ngua-dich-benh-viem-phoi-cap-corona/)
+14:51:19	Warning: 	Moved Permanently for baogam.com/?p=5078
+14:51:19	Warning: 	File has moved from baogam.com/?p=5078 to http://baogam.com/thong-bao-tinh-hinh-van-chuyen/
+14:51:19	Error: 	"Not Found" (404) at link baogam.com/thong-bao-tinh-hinh-van-chuyen/; (from baogam.com/thong-bao-tinh-hinh-van-chuyen/)
+14:51:19	Warning: 	Moved Permanently for baogam.com/?p=5068
+14:51:19	Warning: 	File has moved from baogam.com/?p=5068 to http://baogam.com/ds-kh-nhan-qua-tang-km01-tu-ctkm-dat-hang-nam-moi-phoi-phoi-loc-xuan/
+14:51:19	Error: 	"Not Found" (404) at link baogam.com/ds-kh-nhan-qua-tang-km01-tu-ctkm-dat-hang-nam-moi-phoi-phoi-loc-xuan/; (from baogam.com/ds-kh-nhan-qua-tang-km01-tu-ctkm-dat-hang-nam-moi-phoi-phoi-loc-xuan/)
+14:51:19	Warning: 	Moved Permanently for baogam.com/?p=5059
+14:51:19	Warning: 	File has moved from baogam.com/?p=5059 to http://baogam.com/thong-bao-lui-lich-lam-viec-sau-tet-nguyen-dan-2020/
+14:51:19	Error: 	"Not Found" (404) at link baogam.com/thong-bao-lui-lich-lam-viec-sau-tet-nguyen-dan-2020/; (from baogam.com/thong-bao-lui-lich-lam-viec-sau-tet-nguyen-dan-2020/)
+14:51:19	Warning: 	Moved Permanently for baogam.com/?p=5050
+14:51:19	Warning: 	File has moved from baogam.com/?p=5050 to http://baogam.com/tb-chuong-trinh-uu-dai-dat-hang-nam-moi-phoi-phoi-loc-xuan/
+14:51:19	Error: 	"Not Found" (404) at link baogam.com/tb-chuong-trinh-uu-dai-dat-hang-nam-moi-phoi-phoi-loc-xuan/; (from baogam.com/tb-chuong-trinh-uu-dai-dat-hang-nam-moi-phoi-phoi-loc-xuan/)
+14:51:19	Warning: 	Moved Permanently for baogam.com/?p=5043
+14:51:19	Warning: 	File has moved from baogam.com/?p=5043 to http://baogam.com/lich-lam-viec-sau-tet-nguyen-dan-2020/
+14:51:19	Error: 	"Not Found" (404) at link baogam.com/lich-lam-viec-sau-tet-nguyen-dan-2020/; (from baogam.com/lich-lam-viec-sau-tet-nguyen-dan-2020/)
+14:51:19	Warning: 	Moved Permanently for baogam.com/?p=5039
+14:51:19	Warning: 	File has moved from baogam.com/?p=5039 to http://baogam.com/thong-bao-ta%cc%a3m-ngung-di%cc%a3ch-vu%cc%a3-trong-ngay-12012020/
+14:51:19	Error: 	"Not Found" (404) at link baogam.com/thong-bao-tạm-ngung-dịch-vụ-trong-ngay-12012020/; (from baogam.com/thong-bao-tạm-ngung-dịch-vụ-trong-ngay-12012020/)
+14:51:19	Warning: 	Moved Permanently for baogam.com/?p=5036
+14:51:19	Warning: 	File has moved from baogam.com/?p=5036 to http://baogam.com/tb-dieu-chinh-giam-ty-gia-dong-ndt-ngay-08012020/
+14:51:19	Error: 	"Not Found" (404) at link baogam.com/tb-dieu-chinh-giam-ty-gia-dong-ndt-ngay-08012020/; (from baogam.com/tb-dieu-chinh-giam-ty-gia-dong-ndt-ngay-08012020/)
+14:51:19	Warning: 	Moved Permanently for baogam.com/?p=5024
+14:51:19	Warning: 	File has moved from baogam.com/?p=5024 to http://baogam.com/ds-khach-hang-nhan-qua-tang-tu-ct-mung-giang-sinh-rinh-tien-mat/
+14:51:19	Error: 	"Not Found" (404) at link baogam.com/ds-khach-hang-nhan-qua-tang-tu-ct-mung-giang-sinh-rinh-tien-mat/; (from baogam.com/ds-khach-hang-nhan-qua-tang-tu-ct-mung-giang-sinh-rinh-tien-mat/)
+14:51:19	Warning: 	Moved Permanently for baogam.com/?p=5020
+14:51:19	Warning: 	File has moved from baogam.com/?p=5020 to http://baogam.com/thong-bao-lich-nghi-tet-duong-lich-nam-2020/
+14:51:19	Error: 	"Not Found" (404) at link baogam.com/thong-bao-lich-nghi-tet-duong-lich-nam-2020/; (from baogam.com/thong-bao-lich-nghi-tet-duong-lich-nam-2020/)
+14:51:20	Warning: 	Moved Permanently for baogam.com/?p=5018
+14:51:20	Warning: 	File has moved from baogam.com/?p=5018 to http://baogam.com/tb-dieu-chinh-tang-ty-gia-dong-ndt-ngay-26122019/
+14:51:20	Error: 	"Not Found" (404) at link baogam.com/tb-dieu-chinh-tang-ty-gia-dong-ndt-ngay-26122019/; (from baogam.com/tb-dieu-chinh-tang-ty-gia-dong-ndt-ngay-26122019/)
+14:51:20	Warning: 	Moved Permanently for baogam.com/?p=5008
+14:51:20	Warning: 	File has moved from baogam.com/?p=5008 to http://baogam.com/tb-dieu-chinh-tang-ty-gia-dong-ndt-ngay-22122019/
+14:51:20	Error: 	"Not Found" (404) at link baogam.com/tb-dieu-chinh-tang-ty-gia-dong-ndt-ngay-22122019/; (from baogam.com/tb-dieu-chinh-tang-ty-gia-dong-ndt-ngay-22122019/)
+14:51:20	Warning: 	Moved Permanently for baogam.com/?p=4998
+14:51:20	Warning: 	File has moved from baogam.com/?p=4998 to http://baogam.com/thong-bao-chuong-trinh-uu-dai-don-giang-sinh-ring-tien-mat/
+14:51:20	Error: 	"Not Found" (404) at link baogam.com/thong-bao-chuong-trinh-uu-dai-don-giang-sinh-ring-tien-mat/; (from baogam.com/thong-bao-chuong-trinh-uu-dai-don-giang-sinh-ring-tien-mat/)
+14:51:20	Warning: 	Moved Permanently for baogam.com/?p=4996
+14:51:20	Warning: 	File has moved from baogam.com/?p=4996 to http://baogam.com/thong-bao-lich-lam-viec-truoc-tet-nguyen-dan-2020/
+14:51:20	Error: 	"Not Found" (404) at link baogam.com/thong-bao-lich-lam-viec-truoc-tet-nguyen-dan-2020/; (from baogam.com/thong-bao-lich-lam-viec-truoc-tet-nguyen-dan-2020/)
+14:51:20	Warning: 	Moved Permanently for baogam.com/?p=4987
+14:51:20	Warning: 	File has moved from baogam.com/?p=4987 to http://baogam.com/thong-bao-loi-he-thong-server-cua-nha-cung-cap/
+14:51:20	Error: 	"Not Found" (404) at link baogam.com/thong-bao-loi-he-thong-server-cua-nha-cung-cap/; (from baogam.com/thong-bao-loi-he-thong-server-cua-nha-cung-cap/)
+14:51:20	Warning: 	Moved Permanently for baogam.com/?p=4970
+14:51:20	Warning: 	File has moved from baogam.com/?p=4970 to http://baogam.com/4970-2/
+14:51:20	Error: 	"Not Found" (404) at link baogam.com/4970-2/; (from baogam.com/4970-2/)
+14:51:20	Warning: 	Moved Permanently for baogam.com/?p=4967
+14:51:20	Warning: 	File has moved from baogam.com/?p=4967 to http://baogam.com/tb-dieu-chinh-giam-ty-gia-dong-ndt-ngay-19112019/
+14:51:20	Error: 	"Not Found" (404) at link baogam.com/tb-dieu-chinh-giam-ty-gia-dong-ndt-ngay-19112019/; (from baogam.com/tb-dieu-chinh-giam-ty-gia-dong-ndt-ngay-19112019/)
+14:51:20	Warning: 	Moved Permanently for baogam.com/?p=4964
+14:51:20	Warning: 	File has moved from baogam.com/?p=4964 to http://baogam.com/tb-dieu-chinh-tang-ty-gia-dong-ndt-ngay-12112019/
+14:51:20	Error: 	"Not Found" (404) at link baogam.com/tb-dieu-chinh-tang-ty-gia-dong-ndt-ngay-12112019/; (from baogam.com/tb-dieu-chinh-tang-ty-gia-dong-ndt-ngay-12112019/)
+14:51:20	Warning: 	Moved Permanently for baogam.com/?p=4955
+14:51:20	Warning: 	File has moved from baogam.com/?p=4955 to http://baogam.com/tb-tam-dung-chinh-sach-cpn-quoc-te-va-luu-y-ve-thoi-gian-van-chuyen-hang-hoa/
+14:51:20	Error: 	"Not Found" (404) at link baogam.com/tb-tam-dung-chinh-sach-cpn-quoc-te-va-luu-y-ve-thoi-gian-van-chuyen-hang-hoa/; (from baogam.com/tb-tam-dung-chinh-sach-cpn-quoc-te-va-luu-y-ve-thoi-gian-van-chuyen-hang-hoa/)
+14:51:20	Warning: 	Moved Permanently for baogam.com/?p=4910
+14:51:20	Warning: 	File has moved from baogam.com/?p=4910 to http://baogam.com/tb-dieu-chinh-giam-ty-gia-dong-ndt-ngay-21092019/
+14:51:20	Error: 	"Not Found" (404) at link baogam.com/tb-dieu-chinh-giam-ty-gia-dong-ndt-ngay-21092019/; (from baogam.com/tb-dieu-chinh-giam-ty-gia-dong-ndt-ngay-21092019/)
+14:51:20	Warning: 	Moved Permanently for baogam.com/?p=4906
+14:51:20	Warning: 	File has moved from baogam.com/?p=4906 to http://baogam.com/tb-dieu-chinh-tang-ty-gia-dong-ndt-ngay-15092019/
+14:51:20	Error: 	"Not Found" (404) at link baogam.com/tb-dieu-chinh-tang-ty-gia-dong-ndt-ngay-15092019/; (from baogam.com/tb-dieu-chinh-tang-ty-gia-dong-ndt-ngay-15092019/)
+14:51:20	Warning: 	Moved Permanently for baogam.com/?p=4901
+14:51:20	Warning: 	File has moved from baogam.com/?p=4901 to http://baogam.com/thong-bao-lich-to-chuc-hoat-dong-tap-the-tu-0609-08092019/
+14:51:20	Error: 	"Not Found" (404) at link baogam.com/thong-bao-lich-to-chuc-hoat-dong-tap-the-tu-0609-08092019/; (from baogam.com/thong-bao-lich-to-chuc-hoat-dong-tap-the-tu-0609-08092019/)
+14:51:20	Warning: 	Moved Permanently for baogam.com/?p=4898
+14:51:20	Warning: 	File has moved from baogam.com/?p=4898 to http://baogam.com/thong-bao-nghi-le-quoc-khanh-02092019/
+14:51:20	Error: 	"Not Found" (404) at link baogam.com/thong-bao-nghi-le-quoc-khanh-02092019/; (from baogam.com/thong-bao-nghi-le-quoc-khanh-02092019/)
+14:51:20	Warning: 	Moved Permanently for baogam.com/?p=4895
+14:51:20	Warning: 	File has moved from baogam.com/?p=4895 to http://baogam.com/tb-dieu-chinh-giam-ty-gia-dong-ndt-ngay-29082019/
+14:51:20	Error: 	"Not Found" (404) at link baogam.com/tb-dieu-chinh-giam-ty-gia-dong-ndt-ngay-29082019/; (from baogam.com/tb-dieu-chinh-giam-ty-gia-dong-ndt-ngay-29082019/)
+14:51:20	Warning: 	Moved Permanently for baogam.com/?p=4884
+14:51:20	Warning: 	File has moved from baogam.com/?p=4884 to http://baogam.com/tb-bo-sung-them-cap-do-vip-danh-cho-khach-hang-thanh-vien-than-thiet/
+14:51:20	Error: 	"Not Found" (404) at link baogam.com/tb-bo-sung-them-cap-do-vip-danh-cho-khach-hang-thanh-vien-than-thiet/; (from baogam.com/tb-bo-sung-them-cap-do-vip-danh-cho-khach-hang-thanh-vien-than-thiet/)
+14:51:20	Warning: 	Moved Permanently for baogam.com/?p=4878
+14:51:20	Warning: 	File has moved from baogam.com/?p=4878 to http://baogam.com/tb-dieu-chinh-giam-ty-gia-dong-ndt-ngay-22082019/
+14:51:20	Error: 	"Not Found" (404) at link baogam.com/tb-dieu-chinh-giam-ty-gia-dong-ndt-ngay-22082019/; (from baogam.com/tb-dieu-chinh-giam-ty-gia-dong-ndt-ngay-22082019/)
+14:51:20	Warning: 	Moved Permanently for baogam.com/?p=4870
+14:51:20	Warning: 	File has moved from baogam.com/?p=4870 to http://baogam.com/thong-bao-ct-uu-dai-mung-tet-doan-vien-giam-tien-cuoc-phi/
+14:51:20	Error: 	"Not Found" (404) at link baogam.com/thong-bao-ct-uu-dai-mung-tet-doan-vien-giam-tien-cuoc-phi/; (from baogam.com/thong-bao-ct-uu-dai-mung-tet-doan-vien-giam-tien-cuoc-phi/)
+14:51:20	Warning: 	Moved Permanently for baogam.com/?p=4867
+14:51:20	Warning: 	File has moved from baogam.com/?p=4867 to http://baogam.com/tb-dieu-chinh-giam-ty-gia-dong-ndt-ngay-08082019/
+14:51:20	Error: 	"Not Found" (404) at link baogam.com/tb-dieu-chinh-giam-ty-gia-dong-ndt-ngay-08082019/; (from baogam.com/tb-dieu-chinh-giam-ty-gia-dong-ndt-ngay-08082019/)
+14:51:20	Warning: 	Moved Permanently for baogam.com/?p=4825
+14:51:20	Warning: 	File has moved from baogam.com/?p=4825 to http://baogam.com/baogam-canh-bao-cac-thu-doan-gia-danh-de-loi-keo-chiem-dung-tai-san-cua-khach-hang-qua-hinh-thuc-moi-chao-dat-hang-gia-re/
+14:51:20	Error: 	"Not Found" (404) at link baogam.com/baogam-canh-bao-cac-thu-doan-gia-danh-de-loi-keo-chiem-dung-tai-san-cua-khach-hang-qua-hinh-thuc-moi-chao-dat-hang-gia-re/; (from baogam.com/baogam-canh-bao-cac-thu-doan-gia-danh-de-loi-keo-chiem-dung-tai-san-cua-khach-hang-qua-hinh-thuc-moi-chao-dat-hang-gia-re/)
+14:51:20	Warning: 	Moved Permanently for baogam.com/?p=4814
+14:51:20	Warning: 	File has moved from baogam.com/?p=4814 to http://baogam.com/tb-dieu-chinh-giam-phi-van-chuyen-qt-va-ap-dung-lai-cs-chuyen-phat-nhanh/
+14:51:20	Error: 	"Not Found" (404) at link baogam.com/tb-dieu-chinh-giam-phi-van-chuyen-qt-va-ap-dung-lai-cs-chuyen-phat-nhanh/; (from baogam.com/tb-dieu-chinh-giam-phi-van-chuyen-qt-va-ap-dung-lai-cs-chuyen-phat-nhanh/)
+14:51:20	Warning: 	Moved Permanently for baogam.com/?p=4799
+14:51:20	Warning: 	File has moved from baogam.com/?p=4799 to http://baogam.com/thong-bao-lich-to-chuc-hoat-dong-dao-tao-noi-bo-cho-cbnv-2/
+14:51:20	Error: 	"Not Found" (404) at link baogam.com/thong-bao-lich-to-chuc-hoat-dong-dao-tao-noi-bo-cho-cbnv-2/; (from baogam.com/thong-bao-lich-to-chuc-hoat-dong-dao-tao-noi-bo-cho-cbnv-2/)
+14:51:20	Warning: 	Moved Permanently for baogam.com/?p=4782
+14:51:20	Warning: 	File has moved from baogam.com/?p=4782 to http://baogam.com/tb-dieu-chinh-giam-ty-gia-dong-ndt-ngay-25052019/
+14:51:20	Error: 	"Not Found" (404) at link baogam.com/tb-dieu-chinh-giam-ty-gia-dong-ndt-ngay-25052019/; (from baogam.com/tb-dieu-chinh-giam-ty-gia-dong-ndt-ngay-25052019/)
+14:51:20	Warning: 	Moved Permanently for baogam.com/?p=4754
+14:51:20	Warning: 	File has moved from baogam.com/?p=4754 to http://baogam.com/tb-dieu-chinh-giam-ty-le-tien-dat-coc-cho-don-hang-tu-22052019/
+14:51:20	Error: 	"Not Found" (404) at link baogam.com/tb-dieu-chinh-giam-ty-le-tien-dat-coc-cho-don-hang-tu-22052019/; (from baogam.com/tb-dieu-chinh-giam-ty-le-tien-dat-coc-cho-don-hang-tu-22052019/)
+14:51:20	Warning: 	Moved Permanently for baogam.com/?p=4747
+14:51:20	Warning: 	File has moved from baogam.com/?p=4747 to http://baogam.com/tb-dieu-chinh-giam-ty-gia-dong-ndt-ngay-14052019/
+14:51:20	Error: 	"Not Found" (404) at link baogam.com/tb-dieu-chinh-giam-ty-gia-dong-ndt-ngay-14052019/; (from baogam.com/tb-dieu-chinh-giam-ty-gia-dong-ndt-ngay-14052019/)
+14:51:20	Warning: 	Moved Permanently for baogam.com/?p=4722
+14:51:20	Warning: 	File has moved from baogam.com/?p=4722 to http://baogam.com/thong-bao-lich-nghi-le-304-01052019/
+14:51:20	Error: 	"Not Found" (404) at link baogam.com/thong-bao-lich-nghi-le-304-01052019/; (from baogam.com/thong-bao-lich-nghi-le-304-01052019/)
+14:51:20	Warning: 	Moved Permanently for baogam.com/?p=4707
+14:51:20	Warning: 	File has moved from baogam.com/?p=4707 to http://baogam.com/tb-chuong-trinh-uu-dai-khuyen-mai-tung-bung-mung-ngay-chien-thang/
+14:51:20	Error: 	"Not Found" (404) at link baogam.com/tb-chuong-trinh-uu-dai-khuyen-mai-tung-bung-mung-ngay-chien-thang/; (from baogam.com/tb-chuong-trinh-uu-dai-khuyen-mai-tung-bung-mung-ngay-chien-thang/)
+14:51:20	Warning: 	Moved Permanently for baogam.com/?p=4647
+14:51:20	Warning: 	File has moved from baogam.com/?p=4647 to http://baogam.com/tb-dieu-chinh-phi-van-chuyen-quoc-te-va-ap-dung-lai-hinh-thuc-chuyen-phat-tiet-kiem/
+14:51:20	Error: 	"Not Found" (404) at link baogam.com/tb-dieu-chinh-phi-van-chuyen-quoc-te-va-ap-dung-lai-hinh-thuc-chuyen-phat-tiet-kiem/; (from baogam.com/tb-dieu-chinh-phi-van-chuyen-quoc-te-va-ap-dung-lai-hinh-thuc-chuyen-phat-tiet-kiem/)
+14:51:20	Warning: 	Moved Permanently for baogam.com/?p=4628
+14:51:20	Warning: 	File has moved from baogam.com/?p=4628 to http://baogam.com/tb-dieu-chinh-giam-ty-le-tien-dat-coc-cho-don-hang-tu-ngay-06042019/
+14:51:20	Error: 	"Not Found" (404) at link baogam.com/tb-dieu-chinh-giam-ty-le-tien-dat-coc-cho-don-hang-tu-ngay-06042019/; (from baogam.com/tb-dieu-chinh-giam-ty-le-tien-dat-coc-cho-don-hang-tu-ngay-06042019/)
+14:51:20	Warning: 	Moved Permanently for baogam.com/?p=4608
+14:51:20	Warning: 	File has moved from baogam.com/?p=4608 to http://baogam.com/tb-chuong-trinh-km-ngay-hoi-doanh-nhan-trung-quoc-28032019/
+14:51:20	Error: 	"Not Found" (404) at link baogam.com/tb-chuong-trinh-km-ngay-hoi-doanh-nhan-trung-quoc-28032019/; (from baogam.com/tb-chuong-trinh-km-ngay-hoi-doanh-nhan-trung-quoc-28032019/)
+14:51:20	Warning: 	Moved Permanently for baogam.com/?p=4605
+14:51:20	Warning: 	File has moved from baogam.com/?p=4605 to http://baogam.com/tb-tiep-tuc-ho-tro-mua-van-chuyen-mat-hang-dien-tu/
+14:51:20	Error: 	"Not Found" (404) at link baogam.com/tb-tiep-tuc-ho-tro-mua-van-chuyen-mat-hang-dien-tu/; (from baogam.com/tb-tiep-tuc-ho-tro-mua-van-chuyen-mat-hang-dien-tu/)
+14:51:20	Warning: 	Moved Permanently for baogam.com/?p=4596
+14:51:20	Warning: 	File has moved from baogam.com/?p=4596 to http://baogam.com/dieu-chinh-tang-ty-le-tien-dat-coc-cho-don-hang-tu-ngay-11032019/
+14:51:20	Error: 	"Not Found" (404) at link baogam.com/dieu-chinh-tang-ty-le-tien-dat-coc-cho-don-hang-tu-ngay-11032019/; (from baogam.com/dieu-chinh-tang-ty-le-tien-dat-coc-cho-don-hang-tu-ngay-11032019/)
+14:51:21	Warning: 	Moved Permanently for baogam.com/?p=4582
+14:51:21	Warning: 	File has moved from baogam.com/?p=4582 to http://baogam.com/tam-dung-hinh-thuc-van-chuyen-chuyen-phat-nhanh-va-chuyen-phat-tiet-kiem/
+14:51:21	Error: 	"Not Found" (404) at link baogam.com/tam-dung-hinh-thuc-van-chuyen-chuyen-phat-nhanh-va-chuyen-phat-tiet-kiem/; (from baogam.com/tam-dung-hinh-thuc-van-chuyen-chuyen-phat-nhanh-va-chuyen-phat-tiet-kiem/)
+14:51:21	Warning: 	Moved Permanently for baogam.com/?p=4574
+14:51:21	Warning: 	File has moved from baogam.com/?p=4574 to http://baogam.com/tb-tam-dung-nhan-mua-va-van-chuyen-cac-san-pham-hang-dien-tu-hang-de-vo/
+14:51:21	Error: 	"Not Found" (404) at link baogam.com/tb-tam-dung-nhan-mua-va-van-chuyen-cac-san-pham-hang-dien-tu-hang-de-vo/; (from baogam.com/tb-tam-dung-nhan-mua-va-van-chuyen-cac-san-pham-hang-dien-tu-hang-de-vo/)
+14:51:21	Warning: 	Moved Permanently for baogam.com/?p=4548
+14:51:21	Warning: 	File has moved from baogam.com/?p=4548 to http://baogam.com/thong-bao-dieu-chinh-tang-phi-van-chuyen-quoc-te/
+14:51:21	Error: 	"Not Found" (404) at link baogam.com/thong-bao-dieu-chinh-tang-phi-van-chuyen-quoc-te/; (from baogam.com/thong-bao-dieu-chinh-tang-phi-van-chuyen-quoc-te/)
+14:51:21	Warning: 	Moved Permanently for baogam.com/?p=4538
+14:51:21	Warning: 	File has moved from baogam.com/?p=4538 to http://baogam.com/thong-bao-cham-thong-quan-cuoi-thang-022019/
+14:51:21	Error: 	"Not Found" (404) at link baogam.com/thong-bao-cham-thong-quan-cuoi-thang-022019/; (from baogam.com/thong-bao-cham-thong-quan-cuoi-thang-022019/)
+14:51:21	Warning: 	Moved Permanently for baogam.com/?p=4533
+14:51:21	Warning: 	File has moved from baogam.com/?p=4533 to http://baogam.com/tb-dieu-chinh-tang-ty-gia-dong-ndt-ngay-22022019/
+14:51:21	Error: 	"Not Found" (404) at link baogam.com/tb-dieu-chinh-tang-ty-gia-dong-ndt-ngay-22022019/; (from baogam.com/tb-dieu-chinh-tang-ty-gia-dong-ndt-ngay-22022019/)
+14:51:21	Warning: 	Moved Permanently for baogam.com/?p=4528
+14:51:21	Warning: 	File has moved from baogam.com/?p=4528 to http://baogam.com/ds-kh-nhan-qua-tang-km01-tu-ct-uu-dai-loc-xuan-bat-ngat-hong-phat-ca-nam/
+14:51:21	Error: 	"Not Found" (404) at link baogam.com/ds-kh-nhan-qua-tang-km01-tu-ct-uu-dai-loc-xuan-bat-ngat-hong-phat-ca-nam/; (from baogam.com/ds-kh-nhan-qua-tang-km01-tu-ct-uu-dai-loc-xuan-bat-ngat-hong-phat-ca-nam/)
+14:51:21	Warning: 	Moved Permanently for baogam.com/?p=4487
+14:51:21	Warning: 	File has moved from baogam.com/?p=4487 to http://baogam.com/thong-bao-ct-uu-dai-loc-xuan-bat-ngat-hong-phat-ca-nam/
+14:51:21	Error: 	"Not Found" (404) at link baogam.com/thong-bao-ct-uu-dai-loc-xuan-bat-ngat-hong-phat-ca-nam/; (from baogam.com/thong-bao-ct-uu-dai-loc-xuan-bat-ngat-hong-phat-ca-nam/)
+14:51:21	Warning: 	Moved Permanently for baogam.com/?p=4517
+14:51:21	Warning: 	File has moved from baogam.com/?p=4517 to http://baogam.com/thong-bao-lich-nghi-tet-nguyen-dan-2019/
+14:51:21	Error: 	"Not Found" (404) at link baogam.com/thong-bao-lich-nghi-tet-nguyen-dan-2019/; (from baogam.com/thong-bao-lich-nghi-tet-nguyen-dan-2019/)
+14:51:21	Warning: 	Moved Permanently for baogam.com/?p=4513
+14:51:21	Warning: 	File has moved from baogam.com/?p=4513 to http://baogam.com/lich-lam-viec-sau-tet-nguyen-dan-2019/
+14:51:21	Error: 	"Not Found" (404) at link baogam.com/lich-lam-viec-sau-tet-nguyen-dan-2019/; (from baogam.com/lich-lam-viec-sau-tet-nguyen-dan-2019/)
+14:51:21	Warning: 	Moved Permanently for baogam.com/?p=4508
+14:51:21	Warning: 	File has moved from baogam.com/?p=4508 to http://baogam.com/thong-bao-cham-thong-quan-thang-12019/
+14:51:21	Error: 	"Not Found" (404) at link baogam.com/thong-bao-cham-thong-quan-thang-12019/; (from baogam.com/thong-bao-cham-thong-quan-thang-12019/)
+14:51:21	Warning: 	Moved Permanently for baogam.com/?p=4502
+14:51:21	Warning: 	File has moved from baogam.com/?p=4502 to http://baogam.com/thong-bao-dieu-chinh-tang-ty-gia-dong-ndt-ngay-12012019/
+14:51:21	Error: 	"Not Found" (404) at link baogam.com/thong-bao-dieu-chinh-tang-ty-gia-dong-ndt-ngay-12012019/; (from baogam.com/thong-bao-dieu-chinh-tang-ty-gia-dong-ndt-ngay-12012019/)
+14:51:21	Warning: 	Moved Permanently for baogam.com/?p=4478
+14:51:21	Warning: 	File has moved from baogam.com/?p=4478 to http://baogam.com/thong-bao-lich-lam-viec-truoc-va-sau-tet-nguyen-dan-2019/
+14:51:21	Error: 	"Not Found" (404) at link baogam.com/thong-bao-lich-lam-viec-truoc-va-sau-tet-nguyen-dan-2019/; (from baogam.com/thong-bao-lich-lam-viec-truoc-va-sau-tet-nguyen-dan-2019/)
+14:51:21	Warning: 	Moved Permanently for baogam.com/?p=4466
+14:51:21	Warning: 	File has moved from baogam.com/?p=4466 to http://baogam.com/4466-2/
+14:51:21	Error: 	"Not Found" (404) at link baogam.com/4466-2/; (from baogam.com/4466-2/)
+14:51:21	Warning: 	Moved Permanently for baogam.com/?p=4463
+14:51:21	Warning: 	File has moved from baogam.com/?p=4463 to http://baogam.com/thong-bao-lich-nghi-tet-duong-lich-2019/
+14:51:21	Error: 	"Not Found" (404) at link baogam.com/thong-bao-lich-nghi-tet-duong-lich-2019/; (from baogam.com/thong-bao-lich-nghi-tet-duong-lich-2019/)
+14:51:21	Warning: 	Moved Permanently for baogam.com/?p=4437
+14:51:21	Warning: 	File has moved from baogam.com/?p=4437 to http://baogam.com/tb-chuong-trinh-khuyen-mai-tung-bung-mung-ngay-sinh-nhat-25122018/
+14:51:21	Error: 	"Not Found" (404) at link baogam.com/tb-chuong-trinh-khuyen-mai-tung-bung-mung-ngay-sinh-nhat-25122018/; (from baogam.com/tb-chuong-trinh-khuyen-mai-tung-bung-mung-ngay-sinh-nhat-25122018/)
+14:51:21	Warning: 	Moved Permanently for baogam.com/?p=4419
+14:51:21	Warning: 	File has moved from baogam.com/?p=4419 to http://baogam.com/4419-2/
+14:51:21	Error: 	"Not Found" (404) at link baogam.com/4419-2/; (from baogam.com/4419-2/)
+14:51:21	Warning: 	Moved Permanently for baogam.com/?p=4407
+14:51:21	Warning: 	File has moved from baogam.com/?p=4407 to http://baogam.com/thong-bao-nang-cap-server-he-thong-ngay-04112018/
+14:51:21	Error: 	"Not Found" (404) at link baogam.com/thong-bao-nang-cap-server-he-thong-ngay-04112018/; (from baogam.com/thong-bao-nang-cap-server-he-thong-ngay-04112018/)
+14:51:21	Warning: 	Moved Permanently for baogam.com/?p=4403
+14:51:21	Warning: 	File has moved from baogam.com/?p=4403 to http://baogam.com/tb-dieu-chinh-giam-ty-gia-dong-ndt-ngay-30102018/
+14:51:21	Error: 	"Not Found" (404) at link baogam.com/tb-dieu-chinh-giam-ty-gia-dong-ndt-ngay-30102018/; (from baogam.com/tb-dieu-chinh-giam-ty-gia-dong-ndt-ngay-30102018/)
+14:51:21	Warning: 	Moved Permanently for baogam.com/?p=4378
+14:51:21	Warning: 	File has moved from baogam.com/?p=4378 to http://baogam.com/4378-2/
+14:51:21	Error: 	"Not Found" (404) at link baogam.com/4378-2/; (from baogam.com/4378-2/)
+14:51:21	Warning: 	Moved Permanently for baogam.com/?p=4352
+14:51:21	Warning: 	File has moved from baogam.com/?p=4352 to http://baogam.com/tb-danh-sach-kh-nhan-qua-tang-tu-chuong-trinh-10-uu-dai-nhan-ngay-13/
+14:51:21	Error: 	"Not Found" (404) at link baogam.com/tb-danh-sach-kh-nhan-qua-tang-tu-chuong-trinh-10-uu-dai-nhan-ngay-13/; (from baogam.com/tb-danh-sach-kh-nhan-qua-tang-tu-chuong-trinh-10-uu-dai-nhan-ngay-13/)
+14:51:21	Warning: 	Moved Permanently for baogam.com/?p=4331
+14:51:21	Warning: 	File has moved from baogam.com/?p=4331 to http://baogam.com/tb-chuong-trinh-uu-dai-tri-an-khach-hang-ngay-doanh-nhan-viet-nam/
+14:51:21	Error: 	"Not Found" (404) at link baogam.com/tb-chuong-trinh-uu-dai-tri-an-khach-hang-ngay-doanh-nhan-viet-nam/; (from baogam.com/tb-chuong-trinh-uu-dai-tri-an-khach-hang-ngay-doanh-nhan-viet-nam/)
+14:51:21	Warning: 	Moved Permanently for baogam.com/?p=4323
+14:51:21	Warning: 	File has moved from baogam.com/?p=4323 to http://baogam.com/thong-bao-ve-viec-thay-doi-so-dien-thoai-dang-ky-tren-tai-khoan-baogam/
+14:51:21	Error: 	"Not Found" (404) at link baogam.com/thong-bao-ve-viec-thay-doi-so-dien-thoai-dang-ky-tren-tai-khoan-baogam/; (from baogam.com/thong-bao-ve-viec-thay-doi-so-dien-thoai-dang-ky-tren-tai-khoan-baogam/)
+14:51:21	Warning: 	Moved Permanently for baogam.com/?p=4320
+14:51:21	Warning: 	File has moved from baogam.com/?p=4320 to http://baogam.com/luu-y-ve-thoi-gian-phat-hang-cua-nha-cung-cap-2/
+14:51:21	Error: 	"Not Found" (404) at link baogam.com/luu-y-ve-thoi-gian-phat-hang-cua-nha-cung-cap-2/; (from baogam.com/luu-y-ve-thoi-gian-phat-hang-cua-nha-cung-cap-2/)
+14:51:21	Warning: 	Moved Permanently for baogam.com/?p=4316
+14:51:21	Warning: 	File has moved from baogam.com/?p=4316 to http://baogam.com/thong-bao-ta%cc%a3m-ngung-di%cc%a3ch-vu%cc%a3-trong-ngay-23092018/
+14:51:21	Error: 	"Not Found" (404) at link baogam.com/thong-bao-tạm-ngung-dịch-vụ-trong-ngay-23092018/; (from baogam.com/thong-bao-tạm-ngung-dịch-vụ-trong-ngay-23092018/)
+14:51:21	Warning: 	Moved Permanently for baogam.com/?p=4304
+14:51:21	Warning: 	File has moved from baogam.com/?p=4304 to http://baogam.com/thong-bao-dieu-chinh-giam-ty-gia-dong-ndt-ngay-12092018/
+14:51:21	Error: 	"Not Found" (404) at link baogam.com/thong-bao-dieu-chinh-giam-ty-gia-dong-ndt-ngay-12092018/; (from baogam.com/thong-bao-dieu-chinh-giam-ty-gia-dong-ndt-ngay-12092018/)
+14:51:21	Warning: 	Moved Permanently for baogam.com/?p=4286
+14:51:21	Warning: 	File has moved from baogam.com/?p=4286 to http://baogam.com/4286-2/
+14:51:21	Error: 	"Not Found" (404) at link baogam.com/4286-2/; (from baogam.com/4286-2/)
+14:51:21	Warning: 	Moved Permanently for baogam.com/?p=3238
+14:51:21	Warning: 	File has moved from baogam.com/?p=3238 to http://baogam.com/thong-bao-cham-thong-quan-thang-52017/
+14:51:21	Error: 	"Not Found" (404) at link baogam.com/thong-bao-cham-thong-quan-thang-52017/; (from baogam.com/thong-bao-cham-thong-quan-thang-52017/)
+14:51:21	Warning: 	Moved Permanently for baogam.com/?p=3313
+14:51:21	Warning: 	File has moved from baogam.com/?p=3313 to http://baogam.com/thong-bao-dieu-chinh-ty-gia-dong-ndt-ngay-2872017/
+14:51:21	Error: 	"Not Found" (404) at link baogam.com/thong-bao-dieu-chinh-ty-gia-dong-ndt-ngay-2872017/; (from baogam.com/thong-bao-dieu-chinh-ty-gia-dong-ndt-ngay-2872017/)
+14:51:21	Warning: 	Moved Permanently for baogam.com/?p=3300
+14:51:21	Warning: 	File has moved from baogam.com/?p=3300 to http://baogam.com/thong-bao-thay-doi-dau-dau-so-dien-thoai-co-dinh-04-thanh-024-theo-quy-dinh/
+14:51:21	Error: 	"Not Found" (404) at link baogam.com/thong-bao-thay-doi-dau-dau-so-dien-thoai-co-dinh-04-thanh-024-theo-quy-dinh/; (from baogam.com/thong-bao-thay-doi-dau-dau-so-dien-thoai-co-dinh-04-thanh-024-theo-quy-dinh/)
+14:51:21	Warning: 	Moved Permanently for baogam.com/?p=3295
+14:51:21	Warning: 	File has moved from baogam.com/?p=3295 to http://baogam.com/thong-bao-loi-dang-nhap-website-va-loi-he-thong-quan-tri/
+14:51:21	Error: 	"Not Found" (404) at link baogam.com/thong-bao-loi-dang-nhap-website-va-loi-he-thong-quan-tri/; (from baogam.com/thong-bao-loi-dang-nhap-website-va-loi-he-thong-quan-tri/)
+14:51:21	Warning: 	Moved Permanently for baogam.com/?p=3274
+14:51:21	Warning: 	File has moved from baogam.com/?p=3274 to http://baogam.com/thong-bao-dieu-chinh-ty-gia-dong-ndt-ngay-2062017/
+14:51:21	Error: 	"Not Found" (404) at link baogam.com/thong-bao-dieu-chinh-ty-gia-dong-ndt-ngay-2062017/; (from baogam.com/thong-bao-dieu-chinh-ty-gia-dong-ndt-ngay-2062017/)
+14:51:21	Warning: 	Moved Permanently for baogam.com/?p=3253
+14:51:21	Warning: 	File has moved from baogam.com/?p=3253 to http://baogam.com/thong-bao-ta%cc%a3m-ngung-di%cc%a3ch-vu%cc%a3-trong-ngay-11062017/
+14:51:21	Error: 	"Not Found" (404) at link baogam.com/thong-bao-tạm-ngung-dịch-vụ-trong-ngay-11062017/; (from baogam.com/thong-bao-tạm-ngung-dịch-vụ-trong-ngay-11062017/)
+14:51:21	Warning: 	Moved Permanently for baogam.com/?p=3249
+14:51:21	Warning: 	File has moved from baogam.com/?p=3249 to http://baogam.com/thong-bao-su-dung-tong-dai-cham-soc-khach-hang/
+14:51:21	Error: 	"Not Found" (404) at link baogam.com/thong-bao-su-dung-tong-dai-cham-soc-khach-hang/; (from baogam.com/thong-bao-su-dung-tong-dai-cham-soc-khach-hang/)
+14:51:21	Warning: 	Moved Permanently for baogam.com/?p=4223
+14:51:21	Warning: 	File has moved from baogam.com/?p=4223 to http://baogam.com/thong-bao-dieu-chinh-giam-ty-gia-dong-ndt-ngay-17072018/
+14:51:21	Error: 	"Not Found" (404) at link baogam.com/thong-bao-dieu-chinh-giam-ty-gia-dong-ndt-ngay-17072018/; (from baogam.com/thong-bao-dieu-chinh-giam-ty-gia-dong-ndt-ngay-17072018/)
+14:51:21	Warning: 	Moved Permanently for baogam.com/?p=4195
+14:51:21	Warning: 	File has moved from baogam.com/?p=4195 to http://baogam.com/thong-bao-bo-sung-so-hotline-tu-van-su-dung-dich-vu/
+14:51:21	Error: 	"Not Found" (404) at link baogam.com/thong-bao-bo-sung-so-hotline-tu-van-su-dung-dich-vu/; (from baogam.com/thong-bao-bo-sung-so-hotline-tu-van-su-dung-dich-vu/)
+14:51:21	Warning: 	Moved Permanently for baogam.com/?p=4192
+14:51:21	Warning: 	File has moved from baogam.com/?p=4192 to http://baogam.com/thong-bao-dieu-chinh-giam-ty-gia-dong-ndt-ngay-26062018/
+14:51:21	Error: 	"Not Found" (404) at link baogam.com/thong-bao-dieu-chinh-giam-ty-gia-dong-ndt-ngay-26062018/; (from baogam.com/thong-bao-dieu-chinh-giam-ty-gia-dong-ndt-ngay-26062018/)
+14:51:21	Warning: 	Moved Permanently for baogam.com/?p=4187
+14:51:21	Warning: 	File has moved from baogam.com/?p=4187 to http://baogam.com/thong-bao-bo-sung-so-dien-thoai-tu-van-su-dung-dich-vu/
+14:51:21	Error: 	"Not Found" (404) at link baogam.com/thong-bao-bo-sung-so-dien-thoai-tu-van-su-dung-dich-vu/; (from baogam.com/thong-bao-bo-sung-so-dien-thoai-tu-van-su-dung-dich-vu/)
+14:51:21	Warning: 	Moved Permanently for baogam.com/?p=4185
+14:51:21	Warning: 	File has moved from baogam.com/?p=4185 to http://baogam.com/thong-bao-bo-sung-thong-tin-vao-tai-khoan-ca-nhan/
+14:51:21	Error: 	"Not Found" (404) at link baogam.com/thong-bao-bo-sung-thong-tin-vao-tai-khoan-ca-nhan/; (from baogam.com/thong-bao-bo-sung-thong-tin-vao-tai-khoan-ca-nhan/)
+14:51:21	Warning: 	Moved Permanently for baogam.com/?p=4049
+14:51:21	Warning: 	File has moved from baogam.com/?p=4049 to http://baogam.com/thong-bao-tam-dung-chinh-sach-mua-hang-24h/
+14:51:21	Error: 	"Not Found" (404) at link baogam.com/thong-bao-tam-dung-chinh-sach-mua-hang-24h/; (from baogam.com/thong-bao-tam-dung-chinh-sach-mua-hang-24h/)
+14:51:22	Warning: 	Moved Permanently for baogam.com/?p=4041
+14:51:22	Warning: 	File has moved from baogam.com/?p=4041 to http://baogam.com/thong-bao-dieu-chinh-tang-ty-gia-dong-ndt-ngay-01032018/
+14:51:22	Error: 	"Not Found" (404) at link baogam.com/thong-bao-dieu-chinh-tang-ty-gia-dong-ndt-ngay-01032018/; (from baogam.com/thong-bao-dieu-chinh-tang-ty-gia-dong-ndt-ngay-01032018/)
+14:51:22	Warning: 	Moved Permanently for baogam.com/?p=4021
+14:51:22	Warning: 	File has moved from baogam.com/?p=4021 to http://baogam.com/thong-bao-lich-nghi-tet-nguyen-dan-2018/
+14:51:22	Error: 	"Not Found" (404) at link baogam.com/thong-bao-lich-nghi-tet-nguyen-dan-2018/; (from baogam.com/thong-bao-lich-nghi-tet-nguyen-dan-2018/)
+14:51:22	Warning: 	Moved Permanently for baogam.com/?p=3992
+14:51:22	Warning: 	File has moved from baogam.com/?p=3992 to http://baogam.com/thong-bao-tam-ngung-chinh-sach-mua-hang-24h/
+14:51:22	Error: 	"Not Found" (404) at link baogam.com/thong-bao-tam-ngung-chinh-sach-mua-hang-24h/; (from baogam.com/thong-bao-tam-ngung-chinh-sach-mua-hang-24h/)
+14:51:22	Warning: 	Moved Permanently for baogam.com/?p=3988
+14:51:22	Warning: 	File has moved from baogam.com/?p=3988 to http://baogam.com/thong-bao-lich-lam-viec-sau-tet-nguyen-dan-2018/
+14:51:22	Error: 	"Not Found" (404) at link baogam.com/thong-bao-lich-lam-viec-sau-tet-nguyen-dan-2018/; (from baogam.com/thong-bao-lich-lam-viec-sau-tet-nguyen-dan-2018/)
+14:51:22	Warning: 	Moved Permanently for baogam.com/?p=3981
+14:51:22	Warning: 	File has moved from baogam.com/?p=3981 to http://baogam.com/thong-bao-lich-lam-viec-truoc-tet-nguyen-dan-2018/
+14:51:22	Error: 	"Not Found" (404) at link baogam.com/thong-bao-lich-lam-viec-truoc-tet-nguyen-dan-2018/; (from baogam.com/thong-bao-lich-lam-viec-truoc-tet-nguyen-dan-2018/)
+14:51:22	Warning: 	Moved Permanently for baogam.com/?p=3978
+14:51:22	Warning: 	File has moved from baogam.com/?p=3978 to http://baogam.com/thong-bao-dieu-chinh-tang-ty-gia-dong-ndt-ngay-07012018/
+14:51:22	Error: 	"Not Found" (404) at link baogam.com/thong-bao-dieu-chinh-tang-ty-gia-dong-ndt-ngay-07012018/; (from baogam.com/thong-bao-dieu-chinh-tang-ty-gia-dong-ndt-ngay-07012018/)
+14:51:22	Warning: 	Moved Permanently for baogam.com/?p=3969
+14:51:22	Warning: 	File has moved from baogam.com/?p=3969 to http://baogam.com/thong-bao-lich-nghi-tet-duong-lich-2018/
+14:51:22	Error: 	"Not Found" (404) at link baogam.com/thong-bao-lich-nghi-tet-duong-lich-2018/; (from baogam.com/thong-bao-lich-nghi-tet-duong-lich-2018/)
+14:51:22	Warning: 	Moved Permanently for baogam.com/?p=3921
+14:51:22	Warning: 	File has moved from baogam.com/?p=3921 to http://baogam.com/tb-dskh-nhan-qua-tang-tu-ct-tri-an-khach-hang-nhap-tran-qua-tang/
+14:51:22	Error: 	"Not Found" (404) at link baogam.com/tb-dskh-nhan-qua-tang-tu-ct-tri-an-khach-hang-nhap-tran-qua-tang/; (from baogam.com/tb-dskh-nhan-qua-tang-tu-ct-tri-an-khach-hang-nhap-tran-qua-tang/)
+14:51:22	Warning: 	Moved Permanently for baogam.com/?p=3894
+14:51:22	Warning: 	File has moved from baogam.com/?p=3894 to http://baogam.com/tb-chuong-trinh-uu-dai-dac-biet-mung-baogam-1-tuoi-tri-an-khach-hang-ngap-tran-qua-tang/
+14:51:22	Error: 	"Not Found" (404) at link baogam.com/tb-chuong-trinh-uu-dai-dac-biet-mung-baogam-1-tuoi-tri-an-khach-hang-ngap-tran-qua-tang/; (from baogam.com/tb-chuong-trinh-uu-dai-dac-biet-mung-baogam-1-tuoi-tri-an-khach-hang-ngap-tran-qua-tang/)
+14:51:22	Warning: 	Moved Permanently for baogam.com/?p=3865
+14:51:22	Warning: 	File has moved from baogam.com/?p=3865 to http://baogam.com/thong-bao-chuong-trinh-cach-mang-mua-sam-truc-tuyen-1212/
+14:51:22	Error: 	"Not Found" (404) at link baogam.com/thong-bao-chuong-trinh-cach-mang-mua-sam-truc-tuyen-1212/; (from baogam.com/thong-bao-chuong-trinh-cach-mang-mua-sam-truc-tuyen-1212/)
+14:51:22	Warning: 	Moved Permanently for baogam.com/?p=3828
+14:51:22	Warning: 	File has moved from baogam.com/?p=3828 to http://baogam.com/thong-bao-dieu-chinh-pvc-hinh-thuc-cptk-tu-ngay-30-11-2017/
+14:51:22	Error: 	"Not Found" (404) at link baogam.com/thong-bao-dieu-chinh-pvc-hinh-thuc-cptk-tu-ngay-30-11-2017/; (from baogam.com/thong-bao-dieu-chinh-pvc-hinh-thuc-cptk-tu-ngay-30-11-2017/)
+14:51:22	Warning: 	Moved Permanently for baogam.com/?p=3752
+14:51:22	Warning: 	File has moved from baogam.com/?p=3752 to http://baogam.com/thong-bao-chuong-trinh-khuyen-mai-le-hoi-doc-than-1111/
+14:51:22	Error: 	"Not Found" (404) at link baogam.com/thong-bao-chuong-trinh-khuyen-mai-le-hoi-doc-than-1111/; (from baogam.com/thong-bao-chuong-trinh-khuyen-mai-le-hoi-doc-than-1111/)
+14:51:22	Warning: 	Moved Permanently for baogam.com/?p=3707
+14:51:22	Warning: 	File has moved from baogam.com/?p=3707 to http://baogam.com/thong-bao-cham-thong-quan-cuoi-thang-102017/
+14:51:22	Error: 	"Not Found" (404) at link baogam.com/thong-bao-cham-thong-quan-cuoi-thang-102017/; (from baogam.com/thong-bao-cham-thong-quan-cuoi-thang-102017/)
+14:51:22	Warning: 	Moved Permanently for baogam.com/?p=3682
+14:51:22	Warning: 	File has moved from baogam.com/?p=3682 to http://baogam.com/canh-bao-khach-hang-ve-tinh-trang-ncc-lua-dao-ban-hang-ton-kho/
+14:51:22	Error: 	"Not Found" (404) at link baogam.com/canh-bao-khach-hang-ve-tinh-trang-ncc-lua-dao-ban-hang-ton-kho/; (from baogam.com/canh-bao-khach-hang-ve-tinh-trang-ncc-lua-dao-ban-hang-ton-kho/)
+14:51:22	Warning: 	Moved Permanently for baogam.com/?p=3442
+14:51:22	Warning: 	File has moved from baogam.com/?p=3442 to http://baogam.com/danh-sach-13-khach-hang-nhan-qua-tang-300-000d-tu-chuong-trinh-ngay-13-may-man/
+14:51:22	Error: 	"Not Found" (404) at link baogam.com/danh-sach-13-khach-hang-nhan-qua-tang-300-000d-tu-chuong-trinh-ngay-13-may-man/; (from baogam.com/danh-sach-13-khach-hang-nhan-qua-tang-300-000d-tu-chuong-trinh-ngay-13-may-man/)
+14:51:22	Warning: 	Moved Permanently for baogam.com/?p=3391
+14:51:22	Warning: 	File has moved from baogam.com/?p=3391 to http://baogam.com/chuong-trinh-uu-dai-dac-biet-nhan-ky-niem-ngay-doanh-nhan-viet-nam-ngay-13-may-man/
+14:51:22	Warning: 	Moved Permanently for baogam.com/ds-13-khach-hang-nhan-qua-tang-300-000d-tu-chuong-trinh-ngay-13-may-man/
+14:51:22	Warning: 	File has moved from baogam.com/ds-13-khach-hang-nhan-qua-tang-300-000d-tu-chuong-trinh-ngay-13-may-man/ to http://baogam.com/danh-sach-13-khach-hang-nhan-qua-tang-300-000d-tu-chuong-trinh-ngay-13-may-man/
+14:51:22	Error: 	"Not Found" (404) at link baogam.com/chuong-trinh-uu-dai-dac-biet-nhan-ky-niem-ngay-doanh-nhan-viet-nam-ngay-13-may-man/; (from baogam.com/chuong-trinh-uu-dai-dac-biet-nhan-ky-niem-ngay-doanh-nhan-viet-nam-ngay-13-may-man/)
+14:51:22	Warning: 	Moved Permanently for baogam.com/?p=3378
+14:51:22	Warning: 	File has moved from baogam.com/?p=3378 to http://baogam.com/thong-bao-dieu-chinh-giam-ty-gia-dong-ndt-ngay-2992017/
+14:51:22	Error: 	"Not Found" (404) at link baogam.com/thong-bao-dieu-chinh-giam-ty-gia-dong-ndt-ngay-2992017/; (from baogam.com/thong-bao-dieu-chinh-giam-ty-gia-dong-ndt-ngay-2992017/)
+14:51:22	Warning: 	Moved Permanently for baogam.com/?p=3374
+14:51:22	Warning: 	File has moved from baogam.com/?p=3374 to http://baogam.com/thong-bao-cham-thong-quan-cuoi-thang-9-den-102017/
+14:51:22	Error: 	"Not Found" (404) at link baogam.com/thong-bao-cham-thong-quan-cuoi-thang-9-den-102017/; (from baogam.com/thong-bao-cham-thong-quan-cuoi-thang-9-den-102017/)
+14:51:22	Warning: 	Moved Permanently for baogam.com/?p=3372
+14:51:22	Warning: 	File has moved from baogam.com/?p=3372 to http://baogam.com/thong-bao-lich-to-chuc-hoat-dong-dao-tao-noi-bo-cho-cbnv/
+14:51:22	Error: 	"Not Found" (404) at link baogam.com/thong-bao-lich-to-chuc-hoat-dong-dao-tao-noi-bo-cho-cbnv/; (from baogam.com/thong-bao-lich-to-chuc-hoat-dong-dao-tao-noi-bo-cho-cbnv/)
+14:51:22	Warning: 	Moved Permanently for baogam.com/?p=3361
+14:51:22	Warning: 	File has moved from baogam.com/?p=3361 to http://baogam.com/thong-bao-dieu-chinh-ty-gia-dong-ndt-ngay-10092017/
+14:51:22	Error: 	"Not Found" (404) at link baogam.com/thong-bao-dieu-chinh-ty-gia-dong-ndt-ngay-10092017/; (from baogam.com/thong-bao-dieu-chinh-ty-gia-dong-ndt-ngay-10092017/)
+14:51:22	Error: 	"Connect Error" (-4) after 2 retries at link junk.metafilter.com/xfn.gif (from gmpg.org/xfn/more)
+
+HTTrack Website Copier/3.49-2 mirror complete in 40 minutes 12 seconds : 2561 links scanned, 1804 files written (50762278 bytes overall) [59200207 bytes received at 24544 bytes/sec], 298125 bytes transferred using HTTP compression in 27 files, ratio 31%, 1.0 requests per connection
+(391 errors, 697 warnings, 0 messages)

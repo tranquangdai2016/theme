@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+order.baogam.com	TRUE	/	FALSE	1999999999	V9gcaE	leoiut3f7sfkak1f3nd0bmnk45
+
